@@ -510,3 +510,847 @@
 16:25:06 [INFO]   2021-grille-69  19/10/2021 | Coupe d'Europe
 16:25:10 [INFO] [grid-15] done: total=400 stats=362 results=362 skip=38 files=362
 16:25:10 [INFO] Done in 1438.7s
+20:32:56 [INFO] [grid-8] pages 1→20 | done: 0
+20:32:56 [INFO] [grid-8] listing page 1
+20:32:58 [INFO] [grid-8] total pages: 39
+20:32:58 [INFO] [grid-8] page 1: 20 records
+20:32:58 [INFO]   2026-grille-71  15h25 | Autre
+20:33:00 [INFO]      → stats: skipped (missing cote)
+20:33:00 [INFO]   2026-grille-70  15/05 | Autre
+20:33:02 [INFO]      → stats: skipped (missing cote)
+20:33:02 [INFO]   2026-grille-69  13/05 | Autre
+20:33:03 [INFO]      → stats: skipped (missing cote)
+20:33:03 [INFO]   2026-grille-68  11/05 | Autre
+20:33:05 [INFO]      → stats: skipped (missing cote)
+20:33:05 [INFO]   2026-grille-67  09/05 | Ligue 2
+20:33:07 [INFO]      → stats: skipped (missing cote)
+20:33:07 [INFO]   2026-grille-66  06/05 | Autre
+20:33:08 [INFO]      → stats: skipped (missing cote)
+20:33:08 [INFO]   2026-grille-65  04/05 | Autre
+20:33:10 [INFO]      → stats: skipped (missing cote)
+20:33:10 [INFO]   2026-grille-64  02/05 | Ligue 2
+20:33:12 [INFO]      → stats: skipped (missing cote)
+20:33:12 [INFO]   2026-grille-63  29/04 | Autre
+20:33:13 [INFO]      → stats: skipped (missing cote)
+20:33:13 [INFO]   2026-grille-62  27/04 | Autre
+20:33:15 [INFO]      → stats: skipped (missing cote)
+20:33:15 [INFO]   2026-grille-61  25/04 | Autre
+20:33:17 [INFO]      → stats: skipped (missing cote)
+20:33:17 [INFO]   2026-grille-60  24/04 | Ligue 2
+20:33:18 [INFO]      → stats: skipped (missing cote)
+20:33:18 [INFO]   2026-grille-59  22/04 | Autre
+20:33:20 [INFO]      → stats: skipped (missing cote)
+20:33:20 [INFO]   2026-grille-58  20/04 | Autre
+20:33:22 [INFO]      → stats: skipped (missing cote)
+20:33:22 [INFO]   2026-grille-57  18/04 | Ligue 1
+20:33:23 [INFO]      → stats: skipped (missing cote)
+20:33:23 [INFO]   2026-grille-56  17/04 | Ligue 2
+20:33:25 [INFO]      → stats: skipped (missing cote)
+20:33:25 [INFO]   2026-grille-55  15/04 | Autre
+20:33:27 [INFO]      → stats: skipped (missing cote)
+20:33:27 [INFO]   2026-grille-54  13/04 | Autre
+20:33:28 [INFO]      → stats: skipped (missing cote)
+20:33:28 [INFO]   2026-grille-53  11/04 | Autre
+20:33:30 [INFO]      → stats: skipped (missing cote)
+20:33:30 [INFO]   2026-grille-52  10/04 | Ligue 2
+20:33:32 [INFO]      → stats: skipped (missing cote)
+20:33:32 [INFO] [grid-8] listing page 2
+20:33:34 [INFO] [grid-8] page 2: 20 records
+20:33:34 [INFO]   2026-grille-51  08/04 | Coupe d'Europe
+20:33:36 [INFO]      → stats: skipped (missing cote)
+20:33:36 [INFO]   2026-grille-50  06/04 | Autre
+20:33:37 [INFO]      → stats: skipped (missing cote)
+20:33:37 [INFO]   2026-grille-49  04/04 | Ligue 1
+20:33:39 [INFO]      → stats: skipped (missing cote)
+20:33:39 [INFO]   2026-grille-48  03/04 | Ligue 2
+20:33:41 [INFO]      → stats: skipped (missing cote)
+20:33:41 [INFO]   2026-grille-47  01/04 | Ligue 1
+20:33:42 [INFO]      → stats: skipped (missing cote)
+20:33:42 [INFO]   2026-grille-46  29/03 | Autre
+20:33:44 [INFO]      → stats: skipped (missing cote)
+20:33:44 [INFO]   2026-grille-45  27/03 | International
+20:33:46 [INFO]      → stats: skipped (missing cote)
+20:33:46 [INFO]   2026-grille-44  24/03 | Coupe d'Europe
+20:33:47 [INFO]      → stats: skipped (missing cote)
+20:33:47 [INFO]   2026-grille-43  21/03 | Autre
+20:33:49 [INFO]      → stats: skipped (missing cote)
+20:33:49 [INFO]   2026-grille-42  20/03 | Ligue 2
+20:33:51 [INFO]      → stats: skipped (missing cote)
+20:33:51 [INFO]   2026-grille-41  18/03 | Coupe d'Europe
+20:33:52 [INFO]      → stats: skipped (missing cote)
+20:33:52 [INFO]   2026-grille-40  17/03 | Coupe d'Europe
+20:33:54 [INFO]      → stats: skipped (missing cote)
+20:33:54 [INFO]   2026-grille-39  14/03 | Ligue 1
+20:33:56 [INFO]      → stats: skipped (missing cote)
+20:33:56 [INFO]   2026-grille-38  13/03 | Ligue 2
+20:33:57 [INFO]      → stats: skipped (missing cote)
+20:33:57 [INFO]   2026-grille-37  11/03 | Coupe d'Europe
+20:33:59 [INFO]      → stats: skipped (missing cote)
+20:33:59 [INFO]   2026-grille-36  10/03 | Coupe d'Europe
+20:34:01 [INFO]      → stats: skipped (missing cote)
+20:34:01 [INFO]   2026-grille-35  07/03 | Ligue 1
+20:34:02 [INFO]      → stats: skipped (missing cote)
+20:34:02 [INFO]   2026-grille-34  06/03 | Ligue 2
+20:34:04 [INFO]      → stats: skipped (missing cote)
+20:34:04 [INFO]   2026-grille-33  04/03 | Autre
+20:34:06 [INFO]      → stats: skipped (missing cote)
+20:34:06 [INFO]   2026-grille-32  02/03 | Autre
+20:34:08 [INFO]      → stats: skipped (missing cote)
+20:34:08 [INFO] [grid-8] listing page 3
+20:34:10 [INFO] [grid-8] page 3: 20 records
+20:34:10 [INFO]   2026-grille-31  28/02 | Ligue 1
+20:34:12 [INFO]      → stats: skipped (missing cote)
+20:34:12 [INFO]   2026-grille-30  27/02 | Ligue 2
+20:34:13 [INFO]      → stats: skipped (missing cote)
+20:34:13 [INFO]   2026-grille-29  25/02 | Coupe d'Europe
+20:34:15 [INFO]      → stats: skipped (missing cote)
+20:34:15 [INFO]   2026-grille-28  24/02 | Coupe d'Europe
+20:34:17 [INFO]      → stats: skipped (missing cote)
+20:34:17 [INFO]   2026-grille-27  21/02 | Ligue 1
+20:34:18 [INFO]      → stats: skipped (missing cote)
+20:34:18 [INFO]   2026-grille-26  20/02 | Ligue 2
+20:34:20 [INFO]      → stats: skipped (missing cote)
+20:34:20 [INFO]   2026-grille-25  17/02 | Coupe d'Europe
+20:34:22 [INFO]      → stats: skipped (missing cote)
+20:34:22 [INFO]   2026-grille-24  14/02 | Ligue 1
+20:34:23 [INFO]      → stats: skipped (missing cote)
+20:34:23 [INFO]   2026-grille-23  13/02 | Ligue 1
+20:34:25 [INFO]      → stats: skipped (missing cote)
+20:34:25 [INFO]   2026-grille-22  11/02 | Autre
+20:34:27 [INFO]      → stats: skipped (missing cote)
+20:34:27 [INFO]   2026-grille-21  09/02 | Autre
+20:34:29 [INFO]      → stats: skipped (missing cote)
+20:34:29 [INFO]   2026-grille-20  07/02 | Ligue 1
+20:34:30 [INFO]      → stats: skipped (missing cote)
+20:34:30 [INFO]   2026-grille-19  06/02 | Ligue 2
+20:34:32 [INFO]      → stats: skipped (missing cote)
+20:34:32 [INFO]   2026-grille-18  04/02 | Coupe de France
+20:34:34 [INFO]      → stats: skipped (missing cote)
+20:34:34 [INFO]   2026-grille-17  02/02 | Autre
+20:34:35 [INFO]      → stats: skipped (missing cote)
+20:34:35 [INFO]   2026-grille-16  31/01 | Ligue 1
+20:34:37 [INFO]      → stats: skipped (missing cote)
+20:34:37 [INFO]   2026-grille-15  30/01 | Ligue 2
+20:34:39 [INFO]      → stats: skipped (missing cote)
+20:34:39 [INFO]   2026-grille-14  26/01 | Autre
+20:34:40 [INFO]      → stats: skipped (missing cote)
+20:34:40 [INFO]   2026-grille-13  24/01 | Autre
+20:34:42 [INFO]      → stats: skipped (missing cote)
+20:34:42 [INFO]   2026-grille-12  23/01 | Ligue 2
+20:34:44 [INFO]      → stats: skipped (missing cote)
+20:34:44 [INFO] [grid-8] listing page 4
+20:34:46 [INFO] [grid-8] page 4: 20 records
+20:34:46 [INFO]   2026-grille-11  21/01 | Coupe d'Europe
+20:34:48 [INFO]      → stats: skipped (missing cote)
+20:34:48 [INFO]   2026-grille-10  19/01 | Autre
+20:34:49 [INFO]      → stats: skipped (missing cote)
+20:34:49 [INFO]   2026-grille-9  17/01 | Ligue 1
+20:34:51 [INFO]      → stats: skipped (missing cote)
+20:34:51 [INFO]   2026-grille-8  16/01 | Ligue 2
+20:34:53 [INFO]      → stats: skipped (missing cote)
+20:34:53 [INFO]   2026-grille-7  14/01 | Autre
+20:34:55 [INFO]      → stats: skipped (missing cote)
+20:34:55 [INFO]   2026-grille-6  12/01 | Autre
+20:34:56 [INFO]      → stats: skipped (missing cote)
+20:34:56 [INFO]   2026-grille-5  09/01 | Autre
+20:34:58 [INFO]      → stats: skipped (missing cote)
+20:34:58 [INFO]   2026-grille-4  07/01 | Autre
+20:35:00 [INFO]      → stats: skipped (missing cote)
+20:35:00 [INFO]   2026-grille-3  05/01 | Autre
+20:35:01 [INFO]      → stats: skipped (missing cote)
+20:35:01 [INFO]   2026-grille-2  03/01 | Ligue 2
+20:35:03 [INFO]      → stats: skipped (missing cote)
+20:35:03 [INFO]   2026-grille-1  01/01 | Autre
+20:35:05 [INFO]      → stats: skipped (missing cote)
+20:35:05 [INFO]   2025-grille-173  23/12/2025 | International
+20:35:06 [INFO]      → stats: skipped (missing cote)
+20:35:06 [INFO]   2025-grille-172  19/12/2025 | Autre
+20:35:08 [INFO]      → stats: skipped (missing cote)
+20:35:08 [INFO]   2025-grille-171  17/12/2025 | Autre
+20:35:10 [INFO]      → stats: skipped (missing cote)
+20:35:10 [INFO]   2025-grille-170  15/12/2025 | Autre
+20:35:11 [INFO]      → stats: skipped (missing cote)
+20:35:11 [INFO]   2025-grille-169  12/12/2025 | Ligue 2
+20:35:13 [INFO]      → stats: skipped (missing cote)
+20:35:13 [INFO]   2025-grille-168  10/12/2025 | Coupe d'Europe
+20:35:15 [INFO]      → stats: skipped (missing cote)
+20:35:15 [INFO]   2025-grille-167  08/12/2025 | Autre
+20:35:16 [INFO]      → stats: skipped (missing cote)
+20:35:16 [INFO]   2025-grille-166  05/12/2025 | Ligue 1
+20:35:18 [INFO]      → stats: skipped (missing cote)
+20:35:18 [INFO]   2025-grille-165  03/12/2025 | Autre
+20:35:20 [INFO]      → stats: skipped (missing cote)
+20:35:20 [INFO] [grid-8] listing page 5
+20:35:22 [INFO] [grid-8] page 5: 20 records
+20:35:22 [INFO]   2025-grille-164  01/12/2025 | Autre
+20:35:24 [INFO]      → stats: skipped (missing cote)
+20:35:24 [INFO]   2025-grille-163  29/11/2025 | Ligue 1
+20:35:26 [INFO]      → stats: skipped (missing cote)
+20:35:26 [INFO]   2025-grille-162  28/11/2025 | Autre
+20:35:27 [INFO]      → stats: skipped (missing cote)
+20:35:27 [INFO]   2025-grille-161  26/11/2025 | Coupe d'Europe
+20:35:29 [INFO]      → stats: skipped (missing cote)
+20:35:29 [INFO]   2025-grille-160  24/11/2025 | Autre
+20:35:31 [INFO]      → stats: skipped (missing cote)
+20:35:31 [INFO]   2025-grille-159  22/11/2025 | Ligue 1
+20:35:32 [INFO]      → stats: skipped (missing cote)
+20:35:32 [INFO]   2025-grille-158  21/11/2025 | Ligue 1
+20:35:34 [INFO]      → stats: skipped (missing cote)
+20:35:34 [INFO]   2025-grille-157  19/11/2025 | Autre
+20:35:36 [INFO]      → stats: skipped (missing cote)
+20:35:36 [INFO]   2025-grille-156  17/11/2025 | Ligue 1
+20:35:37 [INFO]      → stats: skipped (missing cote)
+20:35:37 [INFO]   2025-grille-155  15/11/2025 | Ligue 1
+20:35:39 [INFO]      → stats: skipped (missing cote)
+20:35:39 [INFO]   2025-grille-154  13/11/2025 | International
+20:35:41 [INFO]      → stats: skipped (missing cote)
+20:35:41 [INFO]   2025-grille-153  10/11/2025 | Autre
+20:35:42 [INFO]      → stats: skipped (missing cote)
+20:35:42 [INFO]   2025-grille-152  08/11/2025 | Ligue 1
+20:35:44 [INFO]      → stats: skipped (missing cote)
+20:35:44 [INFO]   2025-grille-151  07/11/2025 | Ligue 2
+20:35:46 [INFO]      → stats: skipped (missing cote)
+20:35:46 [INFO]   2025-grille-150  05/11/2025 | Coupe d'Europe
+20:35:47 [INFO]      → stats: skipped (missing cote)
+20:35:47 [INFO]   2025-grille-149  03/11/2025 | Autre
+20:35:49 [INFO]      → stats: skipped (missing cote)
+20:35:49 [INFO]   2025-grille-148  01/11/2025 | Ligue 1
+20:35:51 [INFO]      → stats: skipped (missing cote)
+20:35:51 [INFO]   2025-grille-147  31/10/2025 | Ligue 2
+20:35:52 [INFO]      → stats: skipped (missing cote)
+20:35:52 [INFO]   2025-grille-146  28/10/2025 | Ligue 2
+20:35:54 [INFO]      → stats: skipped (missing cote)
+20:35:54 [INFO]   2025-grille-145  25/10/2025 | Ligue 1
+20:35:56 [INFO]      → stats: skipped (missing cote)
+20:35:56 [INFO] [grid-8] listing page 6
+20:35:58 [INFO] [grid-8] page 6: 20 records
+20:35:58 [INFO]   2025-grille-144  24/10/2025 | Ligue 2
+20:36:00 [INFO]      → stats: skipped (missing cote)
+20:36:00 [INFO]   2025-grille-143  22/10/2025 | Coupe d'Europe
+20:36:02 [INFO]      → stats: skipped (missing cote)
+20:36:02 [INFO]   2025-grille-142  20/10/2025 | Autre
+20:36:03 [INFO]      → stats: skipped (missing cote)
+20:36:03 [INFO]   2025-grille-141  18/10/2025 | Ligue 1
+20:36:05 [INFO]      → stats: skipped (missing cote)
+20:36:05 [INFO]   2025-grille-140  17/10/2025 | Ligue 2
+20:36:07 [INFO]      → stats: skipped (missing cote)
+20:36:07 [INFO]   2025-grille-139  13/10/2025 | International
+20:36:08 [INFO]      → stats: skipped (missing cote)
+20:36:08 [INFO]   2025-grille-138  11/10/2025 | Autre
+20:36:10 [INFO]      → stats: skipped (missing cote)
+20:36:10 [INFO]   2025-grille-137  09/10/2025 | International
+20:36:12 [INFO]      → stats: skipped (missing cote)
+20:36:12 [INFO]   2025-grille-136  07/10/2025 | Autre
+20:36:13 [INFO]      → stats: skipped (missing cote)
+20:36:13 [INFO]   2025-grille-135  04/10/2025 | Autre
+20:36:15 [INFO]      → stats: skipped (missing cote)
+20:36:15 [INFO]   2025-grille-134  03/10/2025 | Ligue 2
+20:36:17 [INFO]      → stats: skipped (missing cote)
+20:36:17 [INFO]   2025-grille-133  01/10/2025 | Coupe d'Europe
+20:36:18 [INFO]      → stats: skipped (missing cote)
+20:36:18 [INFO]   2025-grille-132  29/09/2025 | Autre
+20:36:20 [INFO]      → stats: skipped (missing cote)
+20:36:20 [INFO]   2025-grille-131  27/09/2025 | Ligue 1
+20:36:22 [INFO]      → stats: skipped (missing cote)
+20:36:22 [INFO]   2025-grille-130  26/09/2025 | Ligue 2
+20:36:23 [INFO]      → stats: skipped (missing cote)
+20:36:23 [INFO]   2025-grille-129  23/09/2025 | Ligue 1
+20:36:25 [INFO]      → stats: skipped (missing cote)
+20:36:25 [INFO]   2025-grille-128  20/09/2025 | Ligue 1
+20:36:27 [INFO]      → stats: skipped (missing cote)
+20:36:27 [INFO]   2025-grille-127  19/09/2025 | Ligue 2
+20:36:28 [INFO]      → stats: skipped (missing cote)
+20:36:28 [INFO]   2025-grille-126  17/09/2025 | Coupe d'Europe
+20:36:30 [INFO]      → stats: skipped (missing cote)
+20:36:30 [INFO]   2025-grille-125  15/09/2025 | Autre
+20:36:32 [INFO]      → stats: skipped (missing cote)
+20:36:32 [INFO] [grid-8] listing page 7
+20:36:34 [INFO] [grid-8] page 7: 20 records
+20:36:34 [INFO]   2025-grille-124  13/09/2025 | Autre
+20:36:36 [INFO]      → stats: skipped (missing cote)
+20:36:36 [INFO]   2025-grille-123  12/09/2025 | Ligue 2
+20:36:37 [INFO]      → stats: skipped (missing cote)
+20:36:37 [INFO]   2025-grille-122  08/09/2025 | International
+20:36:39 [INFO]      → stats: skipped (missing cote)
+20:36:39 [INFO]   2025-grille-121  07/09/2025 | Autre
+20:36:41 [INFO]      → stats: skipped (missing cote)
+20:36:41 [INFO]   2025-grille-120  06/09/2025 | Autre
+20:36:42 [INFO]      → stats: skipped (missing cote)
+20:36:42 [INFO]   2025-grille-119  04/09/2025 | International
+20:36:44 [INFO]      → stats: skipped (missing cote)
+20:36:44 [INFO]   2025-grille-118  30/08/2025 | Ligue 1
+20:36:46 [INFO]      → stats: skipped (missing cote)
+20:36:46 [INFO]   2025-grille-117  29/08/2025 | Ligue 2
+20:36:47 [INFO]      → stats: skipped (missing cote)
+20:36:47 [INFO]   2025-grille-116  27/08/2025 | Coupe d'Europe
+20:36:49 [INFO]      → stats: skipped (missing cote)
+20:36:49 [INFO]   2025-grille-115  25/08/2025 | Autre
+20:36:51 [INFO]      → stats: skipped (missing cote)
+20:36:51 [INFO]   2025-grille-114  23/08/2025 | Autre
+20:36:52 [INFO]      → stats: skipped (missing cote)
+20:36:52 [INFO]   2025-grille-113  22/08/2025 | Ligue 2
+20:36:54 [INFO]      → stats: skipped (missing cote)
+20:36:54 [INFO]   2025-grille-112  20/08/2025 | Autre
+20:36:56 [INFO]      → stats: skipped (missing cote)
+20:36:56 [INFO]   2025-grille-111  18/08/2025 | Autre
+20:36:57 [INFO]      → stats: skipped (missing cote)
+20:36:57 [INFO]   2025-grille-110  16/08/2025 | Ligue 1
+20:36:59 [INFO]      → stats: skipped (missing cote)
+20:36:59 [INFO]   2025-grille-109  15/08/2025 | Ligue 2
+20:37:01 [INFO]      → stats: skipped (missing cote)
+20:37:01 [INFO]   2025-grille-108  13/08/2025 | Coupe d'Europe
+20:37:02 [INFO]      → stats: skipped (missing cote)
+20:37:02 [INFO]   2025-grille-107  11/08/2025 | Autre
+20:37:04 [INFO]      → stats: skipped (missing cote)
+20:37:04 [INFO]   2025-grille-106  09/08/2025 | Ligue 2
+20:37:06 [INFO]      → stats: skipped (missing cote)
+20:37:06 [INFO]   2025-grille-105  06/08/2025 | Coupe d'Europe
+20:37:07 [INFO]      → stats: skipped (missing cote)
+20:37:07 [INFO] [grid-8] listing page 8
+20:37:10 [INFO] [grid-8] page 8: 20 records
+20:37:10 [INFO]   2025-grille-104  04/08/2025 | Autre
+20:37:12 [INFO]      → stats: skipped (missing cote)
+20:37:12 [INFO]   2025-grille-103  02/08/2025 | Autre
+20:37:13 [INFO]      → stats: skipped (missing cote)
+20:37:13 [INFO]   2025-grille-102  01/08/2025 | Autre
+20:37:15 [INFO]      → stats: skipped (missing cote)
+20:37:15 [INFO]   2025-grille-101  30/07/2025 | Autre
+20:37:17 [INFO]      → stats: skipped (missing cote)
+20:37:17 [INFO]   2025-grille-100  28/07/2025 | Autre
+20:37:18 [INFO]      → stats: skipped (missing cote)
+20:37:18 [INFO]   2025-grille-99  26/07/2025 | Autre
+20:37:20 [INFO]      → stats: skipped (missing cote)
+20:37:20 [INFO]   2025-grille-98  25/07/2025 | Autre
+20:37:22 [INFO]      → stats: skipped (missing cote)
+20:37:22 [INFO]   2025-grille-97  23/07/2025 | Autre
+20:37:23 [INFO]      → stats: skipped (missing cote)
+20:37:23 [INFO]   2025-grille-96  21/07/2025 | Autre
+20:37:25 [INFO]      → stats: skipped (missing cote)
+20:37:25 [INFO]   2025-grille-95  19/07/2025 | Autre
+20:37:27 [INFO]      → stats: skipped (missing cote)
+20:37:27 [INFO]   2025-grille-94  17/07/2025 | Autre
+20:37:28 [INFO]      → stats: skipped (missing cote)
+20:37:28 [INFO]   2025-grille-93  16/07/2025 | Autre
+20:37:30 [INFO]      → stats: skipped (missing cote)
+20:37:30 [INFO]   2025-grille-92  14/07/2025 | Autre
+20:37:32 [INFO]      → stats: skipped (missing cote)
+20:37:32 [INFO]   2025-grille-91  13/07/2025 | Autre
+20:37:33 [INFO]      → stats: skipped (missing cote)
+20:37:33 [INFO]   2025-grille-90  11/07/2025 | Autre
+20:37:35 [INFO]      → stats: skipped (missing cote)
+20:37:35 [INFO]   2025-grille-89  09/07/2025 | Autre
+20:37:37 [INFO]      → stats: skipped (missing cote)
+20:37:37 [INFO]   2025-grille-88  07/07/2025 | Autre
+20:37:38 [INFO]      → stats: skipped (missing cote)
+20:37:38 [INFO]   2025-grille-87  05/07/2025 | Autre
+20:37:40 [INFO]      → stats: skipped (missing cote)
+20:37:40 [INFO]   2025-grille-86  03/07/2025 | Autre
+20:37:42 [INFO]      → stats: skipped (missing cote)
+20:37:42 [INFO]   2025-grille-85  28/06/2025 | Autre
+20:37:43 [INFO]      → stats: skipped (missing cote)
+20:37:43 [INFO] [grid-8] listing page 9
+20:37:46 [INFO] [grid-8] page 9: 20 records
+20:37:46 [INFO]   2025-grille-84  25/06/2025 | Autre
+20:37:48 [INFO]      → stats: skipped (missing cote)
+20:37:48 [INFO]   2025-grille-83  23/06/2025 | Autre
+20:37:49 [INFO]      → stats: skipped (missing cote)
+20:37:49 [INFO]   2025-grille-82  20/06/2025 | Autre
+20:37:51 [INFO]      → stats: skipped (missing cote)
+20:37:51 [INFO]   2025-grille-81  15/06/2025 | Autre
+20:37:53 [INFO]      → stats: skipped (missing cote)
+20:37:53 [INFO]   2025-grille-80  11/06/2025 | International
+20:37:54 [INFO]      → stats: skipped (missing cote)
+20:37:54 [INFO]   2025-grille-79  07/06/2025 | Autre
+20:37:56 [INFO]      → stats: skipped (missing cote)
+20:37:56 [INFO]   2025-grille-78  04/06/2025 | International
+20:37:58 [INFO]      → stats: skipped (missing cote)
+20:37:58 [INFO]   2025-grille-77  03/06/2025 | International
+20:37:59 [INFO]      → stats: skipped (missing cote)
+20:37:59 [INFO]   2025-grille-76  01/06/2025 | Autre
+20:38:01 [INFO]      → stats: skipped (missing cote)
+20:38:01 [INFO]   2025-grille-75  31/05/2025 | Autre
+20:38:03 [INFO]      → stats: skipped (missing cote)
+20:38:03 [INFO]   2025-grille-74  29/05/2025 | Autre
+20:38:04 [INFO]      → stats: skipped (missing cote)
+20:38:04 [INFO]   2025-grille-73  27/05/2025 | Autre
+20:38:06 [INFO]      → stats: skipped (missing cote)
+20:38:06 [INFO]   2025-grille-72  24/05/2025 | Autre
+20:38:08 [INFO]      → stats: skipped (missing cote)
+20:38:08 [INFO]   2025-grille-71  22/05/2025 | Autre
+20:38:09 [INFO]      → stats: skipped (missing cote)
+20:38:09 [INFO]   2025-grille-70  19/05/2025 | Ligue 1
+20:38:11 [INFO]      → stats: skipped (missing cote)
+20:38:11 [INFO]   2025-grille-69  17/05/2025 | Autre
+20:38:13 [INFO]      → stats: skipped (missing cote)
+20:38:13 [INFO]   2025-grille-68  14/05/2025 | Autre
+20:38:14 [INFO]      → stats: skipped (missing cote)
+20:38:14 [INFO]   2025-grille-67  12/05/2025 | Autre
+20:38:16 [INFO]      → stats: skipped (missing cote)
+20:38:16 [INFO]   2025-grille-66  10/05/2025 | Ligue 2
+20:38:18 [INFO]      → stats: skipped (missing cote)
+20:38:18 [INFO]   2025-grille-65  07/05/2025 | Autre
+20:38:19 [INFO]      → stats: skipped (missing cote)
+20:38:19 [INFO] [grid-8] listing page 10
+20:38:22 [INFO] [grid-8] page 10: 20 records
+20:38:22 [INFO]   2025-grille-64  05/05/2025 | Autre
+20:38:24 [INFO]      → stats: skipped (missing cote)
+20:38:24 [INFO]   2025-grille-63  03/05/2025 | Autre
+20:38:25 [INFO]      → stats: skipped (missing cote)
+20:38:25 [INFO]   2025-grille-62  02/05/2025 | Ligue 2
+20:38:27 [INFO]      → stats: skipped (missing cote)
+20:38:27 [INFO]   2025-grille-61  30/04/2025 | Autre
+20:38:29 [INFO]      → stats: skipped (missing cote)
+20:38:29 [INFO]   2025-grille-60  28/04/2025 | Autre
+20:38:30 [INFO]      → stats: skipped (missing cote)
+20:38:30 [INFO]   2025-grille-59  26/04/2025 | Ligue 1
+20:38:32 [INFO]      → stats: skipped (missing cote)
+20:38:32 [INFO]   2025-grille-58  25/04/2025 | Ligue 2
+20:38:34 [INFO]      → stats: skipped (missing cote)
+20:38:34 [INFO]   2025-grille-57  23/04/2025 | Autre
+20:38:35 [INFO]      → stats: skipped (missing cote)
+20:38:35 [INFO]   2025-grille-56  21/04/2025 | Autre
+20:38:37 [INFO]      → stats: skipped (missing cote)
+20:38:37 [INFO]   2025-grille-55  19/04/2025 | Autre
+20:38:39 [INFO]      → stats: skipped (missing cote)
+20:38:39 [INFO]   2025-grille-54  18/04/2025 | Ligue 2
+20:38:40 [INFO]      → stats: skipped (missing cote)
+20:38:40 [INFO]   2025-grille-53  16/04/2025 | Autre
+20:38:42 [INFO]      → stats: skipped (missing cote)
+20:38:42 [INFO]   2025-grille-52  14/04/2025 | Autre
+20:38:44 [INFO]      → stats: skipped (missing cote)
+20:38:44 [INFO]   2025-grille-51  12/04/2025 | Autre
+20:38:45 [INFO]      → stats: skipped (missing cote)
+20:38:45 [INFO]   2025-grille-50  11/04/2025 | Ligue 2
+20:38:47 [INFO]      → stats: skipped (missing cote)
+20:38:47 [INFO]   2025-grille-49  09/04/2025 | Autre
+20:38:49 [INFO]      → stats: skipped (missing cote)
+20:38:49 [INFO]   2025-grille-48  07/04/2025 | Autre
+20:38:50 [INFO]      → stats: skipped (missing cote)
+20:38:50 [INFO]   2025-grille-47  05/04/2025 | Autre
+20:38:52 [INFO]      → stats: skipped (missing cote)
+20:38:52 [INFO]   2025-grille-46  04/04/2025 | Ligue 2
+20:38:54 [INFO]      → stats: skipped (missing cote)
+20:38:54 [INFO]   2025-grille-45  02/04/2025 | Autre
+20:38:56 [INFO]      → stats: skipped (missing cote)
+20:38:56 [INFO] [grid-8] listing page 11
+20:38:58 [INFO] [grid-8] page 11: 20 records
+20:38:58 [INFO]   2025-grille-44  31/03/2025 | Autre
+20:39:00 [INFO]      → stats: skipped (missing cote)
+20:39:00 [INFO]   2025-grille-43  29/03/2025 | Autre
+20:39:01 [INFO]      → stats: skipped (missing cote)
+20:39:01 [INFO]   2025-grille-42  28/03/2025 | Ligue 2
+20:39:03 [INFO]      → stats: skipped (missing cote)
+20:39:03 [INFO]   2025-grille-41  25/03/2025 | International
+20:39:05 [INFO]      → stats: skipped (missing cote)
+20:39:05 [INFO]   2025-grille-40  23/03/2025 | International
+20:39:06 [INFO]      → stats: skipped (missing cote)
+20:39:06 [INFO]   2025-grille-39  20/03/2025 | International
+20:39:08 [INFO]      → stats: skipped (missing cote)
+20:39:08 [INFO]   2025-grille-38  17/03/2025 | Autre
+20:39:10 [INFO]      → stats: skipped (missing cote)
+20:39:10 [INFO]   2025-grille-37  15/03/2025 | Autre
+20:39:11 [INFO]      → stats: skipped (missing cote)
+20:39:11 [INFO]   2025-grille-36  14/03/2025 | Ligue 2
+20:39:13 [INFO]      → stats: skipped (missing cote)
+20:39:13 [INFO]   2025-grille-35  11/03/2025 | Coupe d'Europe
+20:39:15 [INFO]      → stats: skipped (missing cote)
+20:39:15 [INFO]   2025-grille-34  08/03/2025 | Autre
+20:39:16 [INFO]      → stats: skipped (missing cote)
+20:39:16 [INFO]   2025-grille-33  07/03/2025 | Autre
+20:39:18 [INFO]      → stats: skipped (missing cote)
+20:39:18 [INFO]   2025-grille-32  04/03/2025 | Coupe d'Europe
+20:39:20 [INFO]      → stats: skipped (missing cote)
+20:39:20 [INFO]   2025-grille-31  01/03/2025 | Autre
+20:39:21 [INFO]      → stats: skipped (missing cote)
+20:39:21 [INFO]   2025-grille-30  28/02/2025 | Ligue 2
+20:39:23 [INFO]      → stats: skipped (missing cote)
+20:39:23 [INFO]   2025-grille-29  26/02/2025 | Autre
+20:39:25 [INFO]      → stats: skipped (missing cote)
+20:39:25 [INFO]   2025-grille-28  24/02/2025 | Autre
+20:39:26 [INFO]      → stats: skipped (missing cote)
+20:39:26 [INFO]   2025-grille-27  22/02/2025 | Autre
+20:39:28 [INFO]      → stats: skipped (missing cote)
+20:39:28 [INFO]   2025-grille-26  21/02/2025 | Ligue 2
+20:39:30 [INFO]      → stats: skipped (missing cote)
+20:39:30 [INFO]   2025-grille-25  18/02/2025 | Coupe d'Europe
+20:39:31 [INFO]      → stats: skipped (missing cote)
+20:39:31 [INFO] [grid-8] listing page 12
+20:39:34 [INFO] [grid-8] page 12: 20 records
+20:39:34 [INFO]   2025-grille-24  15/02/2025 | Autre
+20:39:36 [INFO]      → stats: skipped (missing cote)
+20:39:36 [INFO]   2025-grille-23  14/02/2025 | Ligue 2
+20:39:37 [INFO]      → stats: skipped (missing cote)
+20:39:37 [INFO]   2025-grille-22  11/02/2025 | Coupe d'Europe
+20:39:39 [INFO]      → stats: skipped (missing cote)
+20:39:39 [INFO]   2025-grille-21  08/02/2025 | Autre
+20:39:41 [INFO]      → stats: skipped (missing cote)
+20:39:41 [INFO]   2025-grille-20  07/02/2025 | Ligue 2
+20:39:42 [INFO]      → stats: skipped (missing cote)
+20:39:42 [INFO]   2025-grille-19  05/02/2025 | Coupe de France
+20:39:44 [INFO]      → stats: skipped (missing cote)
+20:39:44 [INFO]   2025-grille-18  03/02/2025 | Autre
+20:39:46 [INFO]      → stats: skipped (missing cote)
+20:39:46 [INFO]   2025-grille-17  01/02/2025 | Ligue 1
+20:39:47 [INFO]      → stats: skipped (missing cote)
+20:39:47 [INFO]   2025-grille-16  31/01/2025 | Ligue 2
+20:39:49 [INFO]      → stats: skipped (missing cote)
+20:39:49 [INFO]   2025-grille-15  29/01/2025 | Coupe d'Europe
+20:39:51 [INFO]      → stats: skipped (missing cote)
+20:39:51 [INFO]   2025-grille-14  27/01/2025 | Autre
+20:39:52 [INFO]      → stats: skipped (missing cote)
+20:39:52 [INFO]   2025-grille-13  25/01/2025 | Autre
+20:39:54 [INFO]      → stats: skipped (missing cote)
+20:39:54 [INFO]   2025-grille-12  24/01/2025 | Ligue 2
+20:39:56 [INFO]      → stats: skipped (missing cote)
+20:39:56 [INFO]   2025-grille-11  22/01/2025 | Coupe d'Europe
+20:39:57 [INFO]      → stats: skipped (missing cote)
+20:39:57 [INFO]   2025-grille-10  20/01/2025 | Autre
+20:39:59 [INFO]      → stats: skipped (missing cote)
+20:39:59 [INFO]   2025-grille-9  18/01/2025 | Autre
+20:40:01 [INFO]      → stats: skipped (missing cote)
+20:40:01 [INFO]   2025-grille-8  17/01/2025 | Ligue 2
+20:40:02 [INFO]      → stats: skipped (missing cote)
+20:40:02 [INFO]   2025-grille-7  15/01/2025 | Autre
+20:40:04 [INFO]      → stats: skipped (missing cote)
+20:40:04 [INFO]   2025-grille-6  13/01/2025 | Autre
+20:40:06 [INFO]      → stats: skipped (missing cote)
+20:40:06 [INFO]   2025-grille-5  11/01/2025 | Ligue 1
+20:40:07 [INFO]      → stats: skipped (missing cote)
+20:40:07 [INFO] [grid-8] listing page 13
+20:40:10 [INFO] [grid-8] page 13: 20 records
+20:40:10 [INFO]   2025-grille-4  10/01/2025 | Ligue 2
+20:40:12 [INFO]      → stats: skipped (missing cote)
+20:40:12 [INFO]   2025-grille-3  06/01/2025 | Autre
+20:40:13 [INFO]      → stats: skipped (missing cote)
+20:40:13 [INFO]   2025-grille-2  04/01/2025 | Autre
+20:40:15 [INFO]      → stats: skipped (missing cote)
+20:40:15 [INFO]   2025-grille-1  03/01/2025 | Ligue 2
+20:40:17 [INFO]      → stats: skipped (missing cote)
+20:40:17 [INFO]   2024-grille-168  30/12/2024 | Autre
+20:40:18 [INFO]      → stats: skipped (missing cote)
+20:40:18 [INFO]   2024-grille-167  28/12/2024 | Autre
+20:40:20 [INFO]      → stats: skipped (missing cote)
+20:40:20 [INFO]   2024-grille-166  26/12/2024 | Autre
+20:40:22 [INFO]      → stats: skipped (missing cote)
+20:40:22 [INFO]   2024-grille-165  23/12/2024 | Autre
+20:40:23 [INFO]      → stats: skipped (missing cote)
+20:40:23 [INFO]   2024-grille-164  22/12/2024 | Coupe de France
+20:40:25 [INFO]      → stats: skipped (missing cote)
+20:40:25 [INFO]   2024-grille-163  20/12/2024 | Autre
+20:40:27 [INFO]      → stats: skipped (missing cote)
+20:40:27 [INFO]   2024-grille-162  18/12/2024 | Autre
+20:40:28 [INFO]      → stats: skipped (missing cote)
+20:40:28 [INFO]   2024-grille-161  16/12/2024 | Autre
+20:40:30 [INFO]      → stats: skipped (missing cote)
+20:40:30 [INFO]   2024-grille-160  14/12/2024 | Autre
+20:40:32 [INFO]      → stats: skipped (missing cote)
+20:40:32 [INFO]   2024-grille-159  13/12/2024 | Ligue 2
+20:40:33 [INFO]      → stats: skipped (missing cote)
+20:40:33 [INFO]   2024-grille-158  11/12/2024 | Coupe d'Europe
+20:40:35 [INFO]      → stats: skipped (missing cote)
+20:40:35 [INFO]   2024-grille-157  09/12/2024 | Autre
+20:40:37 [INFO]      → stats: skipped (missing cote)
+20:40:37 [INFO]   2024-grille-156  07/12/2024 | Autre
+20:40:38 [INFO]      → stats: skipped (missing cote)
+20:40:38 [INFO]   2024-grille-155  06/12/2024 | Ligue 2
+20:40:40 [INFO]      → stats: skipped (missing cote)
+20:40:40 [INFO]   2024-grille-154  04/12/2024 | Autre
+20:40:42 [INFO]      → stats: skipped (missing cote)
+20:40:42 [INFO]   2024-grille-153  02/12/2024 | Autre
+20:40:43 [INFO]      → stats: skipped (missing cote)
+20:40:43 [INFO] [grid-8] listing page 14
+20:40:46 [INFO] [grid-8] page 14: 20 records
+20:40:46 [INFO]   2024-grille-152  30/11/2024 | Autre
+20:40:48 [INFO]      → stats: skipped (missing cote)
+20:40:48 [INFO]   2024-grille-151  29/11/2024 | Autre
+20:40:49 [INFO]      → stats: skipped (missing cote)
+20:40:49 [INFO]   2024-grille-150  27/11/2024 | Coupe d'Europe
+20:40:51 [INFO]      → stats: skipped (missing cote)
+20:40:51 [INFO]   2024-grille-149  25/11/2024 | Autre
+20:40:53 [INFO]      → stats: skipped (missing cote)
+20:40:53 [INFO]   2024-grille-148  23/11/2024 | Autre
+20:40:54 [INFO]      → stats: skipped (missing cote)
+20:40:54 [INFO]   2024-grille-147  22/11/2024 | Ligue 2
+20:40:56 [INFO]      → stats: skipped (missing cote)
+20:40:56 [INFO]   2024-grille-146  19/11/2024 | International
+20:40:58 [INFO]      → stats: skipped (missing cote)
+20:40:58 [INFO]   2024-grille-145  17/11/2024 | International
+20:40:59 [INFO]      → stats: skipped (missing cote)
+20:40:59 [INFO]   2024-grille-144  15/11/2024 | Ligue 1
+20:41:01 [INFO]      → stats: skipped (missing cote)
+20:41:01 [INFO]   2024-grille-143  11/11/2024 | Autre
+20:41:03 [INFO]      → stats: skipped (missing cote)
+20:41:03 [INFO]   2024-grille-142  09/11/2024 | Ligue 1
+20:41:04 [INFO]      → stats: skipped (missing cote)
+20:41:04 [INFO]   2024-grille-141  08/11/2024 | Ligue 2
+20:41:06 [INFO]      → stats: skipped (missing cote)
+20:41:06 [INFO]   2024-grille-140  06/11/2024 | Coupe d'Europe
+20:41:08 [INFO]      → stats: skipped (missing cote)
+20:41:08 [INFO]   2024-grille-139  02/11/2024 | Autre
+20:41:09 [INFO]      → stats: skipped (missing cote)
+20:41:09 [INFO]   2024-grille-138  01/11/2024 | Ligue 2
+20:41:11 [INFO]      → stats: skipped (missing cote)
+20:41:11 [INFO]   2024-grille-137  30/10/2024 | Ligue 1
+20:41:13 [INFO]      → stats: skipped (missing cote)
+20:41:13 [INFO]   2024-grille-136  29/10/2024 | Ligue 2
+20:41:14 [INFO]      → stats: skipped (missing cote)
+20:41:14 [INFO]   2024-grille-135  26/10/2024 | Autre
+20:41:16 [INFO]      → stats: skipped (missing cote)
+20:41:16 [INFO]   2024-grille-134  25/10/2024 | Ligue 2
+20:41:18 [INFO]      → stats: skipped (missing cote)
+20:41:18 [INFO]   2024-grille-133  23/10/2024 | Coupe d'Europe
+20:41:20 [INFO]      → stats: skipped (missing cote)
+20:41:20 [INFO] [grid-8] listing page 15
+20:41:22 [INFO] [grid-8] page 15: 20 records
+20:41:22 [INFO]   2024-grille-132  19/10/2024 | Autre
+20:41:24 [INFO]      → stats: skipped (missing cote)
+20:41:24 [INFO]   2024-grille-131  18/10/2024 | Ligue 2
+20:41:25 [INFO]      → stats: skipped (missing cote)
+20:41:25 [INFO]   2024-grille-130  15/10/2024 | International
+20:41:27 [INFO]      → stats: skipped (missing cote)
+20:41:27 [INFO]   2024-grille-129  13/10/2024 | International
+20:41:29 [INFO]      → stats: skipped (missing cote)
+20:41:29 [INFO]   2024-grille-128  11/10/2024 | International
+20:41:31 [INFO]      → stats: skipped (missing cote)
+20:41:31 [INFO]   2024-grille-127  07/10/2024 | Autre
+20:41:32 [INFO]      → stats: skipped (missing cote)
+20:41:32 [INFO]   2024-grille-126  05/10/2024 | Autre
+20:41:34 [INFO]      → stats: skipped (missing cote)
+20:41:34 [INFO]   2024-grille-125  04/10/2024 | Ligue 2
+20:41:36 [INFO]      → stats: skipped (missing cote)
+20:41:36 [INFO]   2024-grille-124  02/10/2024 | Coupe d'Europe
+20:41:37 [INFO]      → stats: skipped (missing cote)
+20:41:37 [INFO]   2024-grille-123  30/09/2024 | Autre
+20:41:39 [INFO]      → stats: skipped (missing cote)
+20:41:39 [INFO]   2024-grille-122  28/09/2024 | Autre
+20:41:41 [INFO]      → stats: skipped (missing cote)
+20:41:41 [INFO]   2024-grille-121  27/09/2024 | Ligue 2
+20:41:42 [INFO]      → stats: skipped (missing cote)
+20:41:42 [INFO]   2024-grille-120  26/09/2024 | Coupe d'Europe
+20:41:44 [INFO]      → stats: skipped (missing cote)
+20:41:44 [INFO]   2024-grille-119  25/09/2024 | Coupe d'Europe
+20:41:46 [INFO]      → stats: skipped (missing cote)
+20:41:46 [INFO]   2024-grille-118  24/09/2024 | Ligue 2
+20:41:47 [INFO]      → stats: skipped (missing cote)
+20:41:47 [INFO]   2024-grille-117  21/09/2024 | Autre
+20:41:49 [INFO]      → stats: skipped (missing cote)
+20:41:49 [INFO]   2024-grille-116  20/09/2024 | Ligue 2
+20:41:51 [INFO]      → stats: skipped (missing cote)
+20:41:51 [INFO]   2024-grille-115  18/09/2024 | Coupe d'Europe
+20:41:53 [INFO]      → stats: skipped (missing cote)
+20:41:53 [INFO]   2024-grille-114  16/09/2024 | Autre
+20:41:54 [INFO]      → stats: skipped (missing cote)
+20:41:54 [INFO]   2024-grille-113  14/09/2024 | Autre
+20:41:56 [INFO]      → stats: skipped (missing cote)
+20:41:56 [INFO] [grid-8] listing page 16
+20:41:58 [INFO] [grid-8] page 16: 20 records
+20:41:58 [INFO]   2024-grille-112  13/09/2024 | Ligue 2
+20:42:00 [INFO]      → stats: skipped (missing cote)
+20:42:00 [INFO]   2024-grille-111  10/09/2024 | International
+20:42:02 [INFO]      → stats: skipped (missing cote)
+20:42:02 [INFO]   2024-grille-110  08/09/2024 | International
+20:42:03 [INFO]      → stats: skipped (missing cote)
+20:42:03 [INFO]   2024-grille-109  06/09/2024 | International
+20:42:05 [INFO]      → stats: skipped (missing cote)
+20:42:05 [INFO]   2024-grille-108  02/09/2024 | Autre
+20:42:07 [INFO]      → stats: skipped (missing cote)
+20:42:07 [INFO]   2024-grille-107  31/08/2024 | Autre
+20:42:08 [INFO]      → stats: skipped (missing cote)
+20:42:08 [INFO]   2024-grille-106  30/08/2024 | Ligue 2
+20:42:10 [INFO]      → stats: skipped (missing cote)
+20:42:10 [INFO]   2024-grille-105  28/08/2024 | Autre
+20:42:12 [INFO]      → stats: skipped (missing cote)
+20:42:12 [INFO]   2024-grille-104  26/08/2024 | Autre
+20:42:14 [INFO]      → stats: skipped (missing cote)
+20:42:14 [INFO]   2024-grille-103  24/08/2024 | Autre
+20:42:15 [INFO]      → stats: skipped (missing cote)
+20:42:15 [INFO]   2024-grille-102  23/08/2024 | Ligue 2
+20:42:17 [INFO]      → stats: skipped (missing cote)
+20:42:17 [INFO]   2024-grille-101  21/08/2024 | Autre
+20:42:19 [INFO]      → stats: skipped (missing cote)
+20:42:19 [INFO]   2024-grille-100  19/08/2024 | Autre
+20:42:20 [INFO]      → stats: skipped (missing cote)
+20:42:20 [INFO]   2024-grille-99  17/08/2024 | Ligue 1
+20:42:22 [INFO]      → stats: skipped (missing cote)
+20:42:22 [INFO]   2024-grille-98  16/08/2024 | Ligue 2
+20:42:24 [INFO]      → stats: skipped (missing cote)
+20:42:24 [INFO]   2024-grille-97  14/08/2024 | Autre
+20:42:25 [INFO]      → stats: skipped (missing cote)
+20:42:25 [INFO]   2024-grille-96  12/08/2024 | Autre
+20:42:27 [INFO]      → stats: skipped (missing cote)
+20:42:27 [INFO]   2024-grille-95  11/08/2024 | Autre
+20:42:29 [INFO]      → stats: skipped (missing cote)
+20:42:29 [INFO]   2024-grille-94  09/08/2024 | Autre
+20:42:30 [INFO]      → stats: skipped (missing cote)
+20:42:30 [INFO]   2024-grille-93  07/08/2024 | Coupe d'Europe
+20:42:32 [INFO]      → stats: skipped (missing cote)
+20:42:32 [INFO] [grid-8] listing page 17
+20:42:34 [INFO] [grid-8] page 17: 20 records
+20:42:34 [INFO]   2024-grille-92  05/08/2024 | Autre
+20:42:36 [INFO]      → stats: skipped (missing cote)
+20:42:36 [INFO]   2024-grille-91  03/08/2024 | Autre
+20:42:38 [INFO]      → stats: skipped (missing cote)
+20:42:38 [INFO]   2024-grille-90  01/08/2024 | Coupe d'Europe
+20:42:39 [INFO]      → stats: skipped (missing cote)
+20:42:39 [INFO]   2024-grille-89  30/07/2024 | International
+20:42:41 [INFO]      → stats: skipped (missing cote)
+20:42:41 [INFO]   2024-grille-88  27/07/2024 | International
+20:42:43 [INFO]      → stats: skipped (missing cote)
+20:42:43 [INFO]   2024-grille-87  24/07/2024 | International
+20:42:44 [INFO]      → stats: skipped (missing cote)
+20:42:44 [INFO]   2024-grille-86  21/07/2024 | Autre
+20:42:46 [INFO]      → stats: skipped (missing cote)
+20:42:46 [INFO]   2024-grille-85  19/07/2024 | Autre
+20:42:48 [INFO]      → stats: skipped (missing cote)
+20:42:48 [INFO]   2024-grille-84  17/07/2024 | Autre
+20:42:51 [INFO]      → stats: skipped (missing cote)
+20:42:51 [INFO]   2024-grille-83  14/07/2024 | Autre
+20:42:52 [INFO]      → stats: skipped (missing cote)
+20:42:52 [INFO]   2024-grille-82  12/07/2024 | International
+20:42:54 [INFO]      → stats: skipped (missing cote)
+20:42:54 [INFO]   2024-grille-81  10/07/2024 | Coupe d'Europe
+20:42:56 [INFO]      → stats: skipped (missing cote)
+20:42:56 [INFO]   2024-grille-80  08/07/2024 | Autre
+20:42:57 [INFO]      → stats: skipped (missing cote)
+20:42:57 [INFO]   2024-grille-79  07/07/2024 | Autre
+20:42:59 [INFO]      → stats: skipped (missing cote)
+20:42:59 [INFO]   2024-grille-78  04/07/2024 | International
+20:43:01 [INFO]      → stats: skipped (missing cote)
+20:43:01 [INFO]   2024-grille-77  01/07/2024 | International
+20:43:02 [INFO]      → stats: skipped (missing cote)
+20:43:02 [INFO]   2024-grille-76  29/06/2024 | International
+20:43:04 [INFO]      → stats: skipped (missing cote)
+20:43:04 [INFO]   2024-grille-75  25/06/2024 | International
+20:43:06 [INFO]      → stats: skipped (missing cote)
+20:43:06 [INFO]   2024-grille-74  21/06/2024 | International
+20:43:07 [INFO]      → stats: skipped (missing cote)
+20:43:07 [INFO]   2024-grille-73  17/06/2024 | International
+20:43:09 [INFO]      → stats: skipped (missing cote)
+20:43:09 [INFO] [grid-8] listing page 18
+20:43:12 [INFO] [grid-8] page 18: 20 records
+20:43:12 [INFO]   2024-grille-72  14/06/2024 | International
+20:43:13 [INFO]      → stats: skipped (missing cote)
+20:43:13 [INFO]   2024-grille-71  11/06/2024 | International
+20:43:15 [INFO]      → stats: skipped (missing cote)
+20:43:15 [INFO]   2024-grille-70  09/06/2024 | Autre
+20:43:17 [INFO]      → stats: skipped (missing cote)
+20:43:17 [INFO]   2024-grille-69  07/06/2024 | International
+20:43:19 [INFO]      → stats: skipped (missing cote)
+20:43:19 [INFO]   2024-grille-68  05/06/2024 | Autre
+20:43:21 [INFO]      → stats: skipped (missing cote)
+20:43:21 [INFO]   2024-grille-67  03/06/2024 | Autre
+20:43:22 [INFO]      → stats: skipped (missing cote)
+20:43:22 [INFO]   2024-grille-66  02/06/2024 | Autre
+20:43:24 [INFO]      → stats: skipped (missing cote)
+20:43:24 [INFO]   2024-grille-65  31/05/2024 | Autre
+20:43:26 [INFO]      → stats: skipped (missing cote)
+20:43:26 [INFO]   2024-grille-64  28/05/2024 | Autre
+20:43:27 [INFO]      → stats: skipped (missing cote)
+20:43:27 [INFO]   2024-grille-63  26/05/2024 | Autre
+20:43:29 [INFO]      → stats: skipped (missing cote)
+20:43:29 [INFO]   2024-grille-62  24/05/2024 | Autre
+20:43:31 [INFO]      → stats: skipped (missing cote)
+20:43:31 [INFO]   2024-grille-61  22/05/2024 | Autre
+20:43:32 [INFO]      → stats: skipped (missing cote)
+20:43:32 [INFO]   2024-grille-60  20/05/2024 | Autre
+20:43:34 [INFO]      → stats: skipped (missing cote)
+20:43:34 [INFO]   2024-grille-59  18/05/2024 | Autre
+20:43:36 [INFO]      → stats: skipped (missing cote)
+20:43:36 [INFO]   2024-grille-58  17/05/2024 | Ligue 2
+20:43:37 [INFO]      → stats: skipped (missing cote)
+20:43:37 [INFO]   2024-grille-57  14/05/2024 | Autre
+20:43:39 [INFO]      → stats: skipped (missing cote)
+20:43:39 [INFO]   2024-grille-56  13/05/2024 | Autre
+20:43:41 [INFO]      → stats: skipped (missing cote)
+20:43:41 [INFO]   2024-grille-55  11/05/2024 | Autre
+20:43:43 [INFO]      → stats: skipped (missing cote)
+20:43:43 [INFO]   2024-grille-54  10/05/2024 | Ligue 2
+20:43:45 [INFO]      → stats: skipped (missing cote)
+20:43:45 [INFO]   2024-grille-53  08/05/2024 | Autre
+20:43:47 [INFO]      → stats: skipped (missing cote)
+20:43:47 [INFO] [grid-8] listing page 19
+20:43:49 [INFO] [grid-8] page 19: 20 records
+20:43:49 [INFO]   2024-grille-52  06/05/2024 | Autre
+20:43:51 [INFO]      → stats: skipped (missing cote)
+20:43:51 [INFO]   2024-grille-51  05/05/2024 | Autre
+20:43:53 [INFO]      → stats: skipped (missing cote)
+20:43:53 [INFO]   2024-grille-50  03/05/2024 | Ligue 2
+20:43:54 [INFO]      → stats: skipped (missing cote)
+20:43:54 [INFO]   2024-grille-49  01/05/2024 | Autre
+20:43:56 [INFO]      → stats: skipped (missing cote)
+20:43:56 [INFO]   2024-grille-48  29/04/2024 | Autre
+20:43:58 [INFO]      → stats: skipped (missing cote)
+20:43:58 [INFO]   2024-grille-47  27/04/2024 | Ligue 2
+20:43:59 [INFO]      → stats: skipped (missing cote)
+20:43:59 [INFO]   2024-grille-46  24/04/2024 | Autre
+20:44:01 [INFO]      → stats: skipped (missing cote)
+20:44:01 [INFO]   2024-grille-45  23/04/2024 | Ligue 2
+20:44:03 [INFO]      → stats: skipped (missing cote)
+20:44:03 [INFO]   2024-grille-44  20/04/2024 | Ligue 2
+20:44:04 [INFO]      → stats: skipped (missing cote)
+20:44:04 [INFO]   2024-grille-43  18/04/2024 | Coupe d'Europe
+20:44:06 [INFO]      → stats: skipped (missing cote)
+20:44:06 [INFO]   2024-grille-42  15/04/2024 | Autre
+20:44:08 [INFO]      → stats: skipped (missing cote)
+20:44:08 [INFO]   2024-grille-41  13/04/2024 | Ligue 2
+20:44:10 [INFO]      → stats: skipped (missing cote)
+20:44:10 [INFO]   2024-grille-40  11/04/2024 | Coupe d'Europe
+20:44:11 [INFO]      → stats: skipped (missing cote)
+20:44:11 [INFO]   2024-grille-39  09/04/2024 | Autre
+20:44:13 [INFO]      → stats: skipped (missing cote)
+20:44:13 [INFO]   2024-grille-38  08/04/2024 | Autre
+20:44:15 [INFO]      → stats: skipped (missing cote)
+20:44:15 [INFO]   2024-grille-37  06/04/2024 | Ligue 2
+20:44:16 [INFO]      → stats: skipped (missing cote)
+20:44:16 [INFO]   2024-grille-36  03/04/2024 | Autre
+20:44:18 [INFO]      → stats: skipped (missing cote)
+20:44:18 [INFO]   2024-grille-35  01/04/2024 | Autre
+20:44:20 [INFO]      → stats: skipped (missing cote)
+20:44:20 [INFO]   2024-grille-34  30/03/2024 | Ligue 2
+20:44:21 [INFO]      → stats: skipped (missing cote)
+20:44:21 [INFO]   2024-grille-33  26/03/2024 | International
+20:44:23 [INFO]      → stats: skipped (missing cote)
+20:44:23 [INFO] [grid-8] listing page 20
+20:44:25 [INFO] [grid-8] page 20: 20 records
+20:44:25 [INFO]   2024-grille-32  23/03/2024 | International
+20:44:27 [INFO]      → stats: skipped (missing cote)
+20:44:27 [INFO]   2024-grille-31  21/03/2024 | International
+20:44:29 [INFO]      → stats: skipped (missing cote)
+20:44:29 [INFO]   2024-grille-30  18/03/2024 | Autre
+20:44:31 [INFO]      → stats: skipped (missing cote)
+20:44:31 [INFO]   2024-grille-29  16/03/2024 | Ligue 2
+20:44:32 [INFO]      → stats: skipped (missing cote)
+20:44:32 [INFO]   2024-grille-28  11/03/2024 | Autre
+20:44:34 [INFO]      → stats: skipped (missing cote)
+20:44:34 [INFO]   2024-grille-27  09/03/2024 | Ligue 2
+20:44:36 [INFO]      → stats: skipped (missing cote)
+20:44:36 [INFO]   2024-grille-26  04/03/2024 | Autre
+20:44:37 [INFO]      → stats: skipped (missing cote)
+20:44:37 [INFO]   2024-grille-25  02/03/2024 | Autre
+20:44:39 [INFO]      → stats: skipped (missing cote)
+20:44:39 [INFO]   2024-grille-24  28/02/2024 | Autre
+20:44:41 [INFO]      → stats: skipped (missing cote)
+20:44:41 [INFO]   2024-grille-23  26/02/2024 | Autre
+20:44:42 [INFO]      → stats: skipped (missing cote)
+20:44:42 [INFO]   2024-grille-22  24/02/2024 | Ligue 2
+20:44:44 [INFO]      → stats: skipped (missing cote)
+20:44:44 [INFO]   2024-grille-21  22/02/2024 | Coupe d'Europe
+20:44:46 [INFO]      → stats: skipped (missing cote)
+20:44:46 [INFO]   2024-grille-20  20/02/2024 | Autre
+20:44:47 [INFO]      → stats: skipped (missing cote)
+20:44:47 [INFO]   2024-grille-19  17/02/2024 | Ligue 2
+20:44:49 [INFO]      → stats: skipped (missing cote)
+20:44:49 [INFO]   2024-grille-18  15/02/2024 | Coupe d'Europe
+20:44:51 [INFO]      → stats: skipped (missing cote)
+20:44:51 [INFO]   2024-grille-17  13/02/2024 | Autre
+20:44:52 [INFO]      → stats: skipped (missing cote)
+20:44:52 [INFO]   2024-grille-16  10/02/2024 | Ligue 2
+20:44:54 [INFO]      → stats: skipped (missing cote)
+20:44:54 [INFO]   2024-grille-15  07/02/2024 | Coupe de France
+20:44:56 [INFO]      → stats: skipped (missing cote)
+20:44:56 [INFO]   2024-grille-14  05/02/2024 | Autre
+20:44:57 [INFO]      → stats: skipped (missing cote)
+20:44:57 [INFO]   2024-grille-13  03/02/2024 | Ligue 2
+20:44:59 [INFO]      → stats: skipped (missing cote)
+20:44:59 [INFO] [grid-8] done: total=400 stats=0 results=0 skip=400 files=0
+20:44:59 [INFO] Done in 723.4s
