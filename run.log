@@ -1,0 +1,512 @@
+16:01:11 [INFO] [grid-15] pages 1→20 | done: 0
+16:01:11 [INFO] [grid-15] listing page 1
+16:01:13 [INFO] [grid-15] total pages: 100
+16:01:13 [INFO] [grid-15] page 1: 20 records
+16:01:13 [INFO]   2026-grille-37  13/05 | Autre
+16:01:15 [INFO]      → stats: skipped (missing cote)
+16:01:15 [INFO]   2026-grille-36  10/05 | Ligue 1
+16:01:18 [INFO]   2026-grille-35  05/05 | Autre
+16:01:20 [INFO] 2026-grille-35: missing cote match 6 → skip
+16:01:20 [INFO]      → stats: skipped (missing cote)
+16:01:20 [INFO]   2026-grille-34  02/05 | Ligue 1
+16:01:23 [INFO]   2026-grille-33  28/04 | Autre
+16:01:25 [INFO] 2026-grille-33: missing cote match 4 → skip
+16:01:25 [INFO]      → stats: skipped (missing cote)
+16:01:25 [INFO]   2026-grille-32  25/04 | Ligue 1
+16:01:28 [INFO]   2026-grille-31  21/04 | Autre
+16:01:31 [INFO]   2026-grille-30  18/04 | Ligue 1
+16:01:35 [INFO]   2026-grille-29  11/04 | Ligue 1
+16:01:38 [INFO]   2026-grille-28  04/04 | Ligue 1
+16:01:41 [INFO]   2026-grille-27  31/03 | International
+16:01:44 [INFO]   2026-grille-26  28/03 | Autre
+16:01:46 [INFO] 2026-grille-26: missing cote match 6 → skip
+16:01:46 [INFO]      → stats: skipped (missing cote)
+16:01:46 [INFO]   2026-grille-25  26/03 | International
+16:01:49 [INFO]   2026-grille-24  21/03 | Ligue 1
+16:01:52 [INFO]   2026-grille-23  18/03 | Autre
+16:01:54 [INFO] 2026-grille-23: missing cote match 7 → skip
+16:01:54 [INFO]      → stats: skipped (missing cote)
+16:01:54 [INFO]   2026-grille-22  16/03 | Autre
+16:01:56 [INFO] 2026-grille-22: missing cote match 10 → skip
+16:01:56 [INFO]      → stats: skipped (missing cote)
+16:01:56 [INFO]   2026-grille-21  14/03 | Ligue 1
+16:01:59 [INFO]   2026-grille-20  11/03 | Ligue 1
+16:02:03 [INFO]   2026-grille-19  09/03 | Autre
+16:02:05 [INFO] 2026-grille-19: missing cote match 6 → skip
+16:02:05 [INFO]      → stats: skipped (missing cote)
+16:02:05 [INFO]   2026-grille-18  07/03 | Ligue 1
+16:02:08 [INFO] [grid-15] listing page 2
+16:02:10 [INFO] [grid-15] page 2: 20 records
+16:02:10 [INFO]   2026-grille-17  03/03 | Autre
+16:02:14 [INFO]   2026-grille-16  28/02 | Ligue 1
+16:02:17 [INFO]   2026-grille-15  23/02 | Autre
+16:02:19 [INFO] 2026-grille-15: missing cote match 5 → skip
+16:02:19 [INFO]      → stats: skipped (missing cote)
+16:02:19 [INFO]   2026-grille-14  21/02 | Ligue 1
+16:02:23 [INFO]   2026-grille-13  16/02 | Autre
+16:02:24 [INFO] 2026-grille-13: missing cote match 4 → skip
+16:02:24 [INFO]      → stats: skipped (missing cote)
+16:02:24 [INFO]   2026-grille-12  14/02 | Ligue 1
+16:02:28 [INFO]   2026-grille-11  10/02 | Autre
+16:02:31 [INFO]   2026-grille-10  07/02 | Ligue 1
+16:02:35 [INFO]   2026-grille-9  03/02 | Autre
+16:02:39 [INFO]   2026-grille-8  31/01 | Ligue 1
+16:02:42 [INFO]   2026-grille-7  28/01 | Coupe d'Europe
+16:02:45 [INFO]   2026-grille-6  24/01 | Ligue 1
+16:02:49 [INFO]   2026-grille-5  20/01 | Coupe d'Europe
+16:02:52 [INFO]   2026-grille-4  17/01 | Ligue 1
+16:02:56 [INFO]   2026-grille-3  11/01 | Autre
+16:02:59 [INFO]   2026-grille-2  07/01 | Autre
+16:03:03 [INFO]   2026-grille-1  04/01 | Ligue 1
+16:03:06 [INFO]   2025-grille-94  30/12/2025 | Autre
+16:03:10 [INFO]   2025-grille-93  27/12/2025 | Autre
+16:03:13 [INFO]   2025-grille-92  21/12/2025 | International
+16:03:17 [INFO] [grid-15] listing page 3
+16:03:20 [INFO] [grid-15] page 3: 20 records
+16:03:20 [INFO]   2025-grille-91  16/12/2025 | Autre
+16:03:22 [INFO] 2025-grille-91: missing cote match 12 → skip
+16:03:22 [INFO]      → stats: skipped (missing cote)
+16:03:22 [INFO]   2025-grille-90  13/12/2025 | Ligue 1
+16:03:25 [INFO]   2025-grille-89  09/12/2025 | Coupe d'Europe
+16:03:29 [INFO]   2025-grille-88  06/12/2025 | Ligue 1
+16:03:32 [INFO]   2025-grille-87  03/12/2025 | Autre
+16:03:35 [INFO]   2025-grille-86  29/11/2025 | Ligue 1
+16:03:38 [INFO]   2025-grille-85  25/11/2025 | Ligue 1
+16:03:41 [INFO]   2025-grille-84  22/11/2025 | Ligue 1
+16:03:45 [INFO]   2025-grille-83  18/11/2025 | International
+16:03:48 [INFO]   2025-grille-82  16/11/2025 | International
+16:03:51 [INFO]   2025-grille-81  14/11/2025 | International
+16:03:54 [INFO]   2025-grille-80  08/11/2025 | Ligue 1
+16:03:58 [INFO]   2025-grille-79  04/11/2025 | Coupe d'Europe
+16:04:01 [INFO]   2025-grille-78  01/11/2025 | Ligue 1
+16:04:04 [INFO]   2025-grille-77  29/10/2025 | Ligue 1
+16:04:07 [INFO]   2025-grille-76  25/10/2025 | Ligue 1
+16:04:11 [INFO]   2025-grille-75  21/10/2025 | Coupe d'Europe
+16:04:14 [INFO]   2025-grille-74  18/10/2025 | Ligue 1
+16:04:17 [INFO]   2025-grille-73  14/10/2025 | International
+16:04:20 [INFO]   2025-grille-72  12/10/2025 | Autre
+16:04:22 [INFO] 2025-grille-72: missing cote match 10 → skip
+16:04:22 [INFO]      → stats: skipped (missing cote)
+16:04:22 [INFO] [grid-15] listing page 4
+16:04:25 [INFO] [grid-15] page 4: 20 records
+16:04:25 [INFO]   2025-grille-71  09/10/2025 | International
+16:04:28 [INFO]   2025-grille-70  07/10/2025 | Autre
+16:04:30 [INFO] 2025-grille-70: missing cote match 1 → skip
+16:04:30 [INFO]      → stats: skipped (missing cote)
+16:04:30 [INFO]   2025-grille-69  04/10/2025 | Ligue 1
+16:04:33 [INFO]   2025-grille-68  30/09/2025 | Coupe d'Europe
+16:04:37 [INFO]   2025-grille-67  27/09/2025 | Ligue 1
+16:04:40 [INFO]   2025-grille-66  24/09/2025 | Coupe d'Europe
+16:04:43 [INFO]   2025-grille-65  22/09/2025 | Autre
+16:04:46 [INFO]   2025-grille-64  20/09/2025 | Ligue 1
+16:04:50 [INFO]   2025-grille-63  16/09/2025 | Coupe d'Europe
+16:04:53 [INFO]   2025-grille-62  13/09/2025 | Ligue 1
+16:04:56 [INFO]   2025-grille-61  05/09/2025 | International
+16:04:59 [INFO]   2025-grille-60  30/08/2025 | Ligue 1
+16:05:02 [INFO]   2025-grille-59  26/08/2025 | Coupe d'Europe
+16:05:06 [INFO]   2025-grille-58  23/08/2025 | Ligue 1
+16:05:09 [INFO]   2025-grille-57  19/08/2025 | Autre
+16:05:12 [INFO]   2025-grille-56  16/08/2025 | Ligue 1
+16:05:15 [INFO]   2025-grille-55  12/08/2025 | Coupe d'Europe
+16:05:19 [INFO]   2025-grille-54  09/08/2025 | Autre
+16:05:22 [INFO]   2025-grille-53  05/08/2025 | Coupe d'Europe
+16:05:24 [INFO] 2025-grille-53: missing cote match 13 → skip
+16:05:24 [INFO]      → stats: skipped (missing cote)
+16:05:24 [INFO]   2025-grille-52  02/08/2025 | Autre
+16:05:25 [INFO] 2025-grille-52: missing cote match 1 → skip
+16:05:25 [INFO]      → stats: skipped (missing cote)
+16:05:25 [INFO] [grid-15] listing page 5
+16:05:28 [INFO] [grid-15] page 5: 20 records
+16:05:28 [INFO]   2025-grille-51  29/07/2025 | Autre
+16:05:32 [INFO]   2025-grille-50  26/07/2025 | Autre
+16:05:33 [INFO] 2025-grille-50: missing cote match 1 → skip
+16:05:33 [INFO]      → stats: skipped (missing cote)
+16:05:33 [INFO]   2025-grille-49  22/07/2025 | Autre
+16:05:37 [INFO]   2025-grille-48  19/07/2025 | Autre
+16:05:40 [INFO]   2025-grille-47  16/07/2025 | Autre
+16:05:44 [INFO]   2025-grille-46  13/07/2025 | Autre
+16:05:46 [INFO] 2025-grille-46: missing cote match 4 → skip
+16:05:46 [INFO]      → stats: skipped (missing cote)
+16:05:46 [INFO]   2025-grille-45  07/07/2025 | Autre
+16:05:49 [INFO]   2025-grille-44  05/07/2025 | Autre
+16:05:53 [INFO]   2025-grille-43  03/07/2025 | Autre
+16:05:56 [INFO]   2025-grille-42  28/06/2025 | Autre
+16:06:00 [INFO]   2025-grille-41  25/06/2025 | Autre
+16:06:03 [INFO]   2025-grille-40  22/06/2025 | Autre
+16:06:05 [INFO] 2025-grille-40: missing cote match 10 → skip
+16:06:05 [INFO]      → stats: skipped (missing cote)
+16:06:05 [INFO]   2025-grille-39  20/06/2025 | Autre
+16:06:08 [INFO]   2025-grille-38  15/06/2025 | Autre
+16:06:12 [INFO]   2025-grille-37  05/06/2025 | International
+16:06:15 [INFO]   2025-grille-36  03/06/2025 | International
+16:06:19 [INFO]   2025-grille-35  31/05/2025 | Autre
+16:06:22 [INFO]   2025-grille-34  28/05/2025 | Autre
+16:06:26 [INFO]   2025-grille-33  25/05/2025 | Autre
+16:06:29 [INFO]   2025-grille-32  20/05/2025 | Autre
+16:06:31 [INFO] 2025-grille-32: missing cote match 6 → skip
+16:06:31 [INFO]      → stats: skipped (missing cote)
+16:06:31 [INFO] [grid-15] listing page 6
+16:06:34 [INFO] [grid-15] page 6: 20 records
+16:06:34 [INFO]   2025-grille-31  17/05/2025 | Ligue 1
+16:06:37 [INFO]   2025-grille-30  13/05/2025 | Autre
+16:06:39 [INFO] 2025-grille-30: missing cote match 11 → skip
+16:06:39 [INFO]      → stats: skipped (missing cote)
+16:06:39 [INFO]   2025-grille-29  10/05/2025 | Ligue 1
+16:06:43 [INFO]   2025-grille-28  04/05/2025 | Ligue 1
+16:06:46 [INFO]   2025-grille-27  27/04/2025 | Ligue 1
+16:06:50 [INFO]   2025-grille-26  22/04/2025 | Autre
+16:06:53 [INFO]   2025-grille-25  20/04/2025 | Ligue 1
+16:06:56 [INFO]   2025-grille-24  13/04/2025 | Ligue 1
+16:07:00 [INFO]   2025-grille-23  06/04/2025 | Ligue 1
+16:07:03 [INFO]   2025-grille-22  01/04/2025 | Autre
+16:07:07 [INFO]   2025-grille-21  30/03/2025 | Ligue 1
+16:07:11 [INFO]   2025-grille-20  24/03/2025 | International
+16:07:14 [INFO]   2025-grille-19  22/03/2025 | Autre
+16:07:17 [INFO]   2025-grille-18  16/03/2025 | Ligue 1
+16:07:21 [INFO]   2025-grille-17  09/03/2025 | Ligue 1
+16:07:24 [INFO]   2025-grille-16  02/03/2025 | Ligue 1
+16:07:28 [INFO]   2025-grille-15  25/02/2025 | Autre
+16:07:31 [INFO]   2025-grille-14  23/02/2025 | Ligue 1
+16:07:35 [INFO]   2025-grille-13  19/02/2025 | Autre
+16:07:37 [INFO] 2025-grille-13: missing cote match 8 → skip
+16:07:37 [INFO]      → stats: skipped (missing cote)
+16:07:37 [INFO]   2025-grille-12  16/02/2025 | Ligue 1
+16:07:40 [INFO] [grid-15] listing page 7
+16:07:43 [INFO] [grid-15] page 7: 20 records
+16:07:43 [INFO]   2025-grille-11  12/02/2025 | Coupe d'Europe
+16:07:47 [INFO]   2025-grille-10  09/02/2025 | Ligue 1
+16:07:50 [INFO]   2025-grille-9  04/02/2025 | Coupe de France
+16:07:54 [INFO]   2025-grille-8  02/02/2025 | Ligue 1
+16:07:57 [INFO]   2025-grille-7  29/01/2025 | Ligue 1
+16:08:01 [INFO]   2025-grille-6  26/01/2025 | Ligue 1
+16:08:04 [INFO]   2025-grille-5  21/01/2025 | Coupe d'Europe
+16:08:07 [INFO]   2025-grille-4  19/01/2025 | Ligue 1
+16:08:11 [INFO]   2025-grille-3  14/01/2025 | Coupe de France
+16:08:14 [INFO]   2025-grille-2  12/01/2025 | Ligue 1
+16:08:18 [INFO]   2025-grille-1  05/01/2025 | Ligue 1
+16:08:21 [INFO]   2024-grille-87  29/12/2024 | Autre
+16:08:25 [INFO]   2024-grille-86  26/12/2024 | Autre
+16:08:28 [INFO]   2024-grille-85  21/12/2024 | Autre
+16:08:32 [INFO]   2024-grille-84  17/12/2024 | Autre
+16:08:35 [INFO]   2024-grille-83  15/12/2024 | Ligue 1
+16:08:39 [INFO]   2024-grille-82  10/12/2024 | Coupe d'Europe
+16:08:42 [INFO]   2024-grille-81  08/12/2024 | Ligue 1
+16:08:46 [INFO]   2024-grille-80  03/12/2024 | Autre
+16:08:49 [INFO]   2024-grille-79  01/12/2024 | Ligue 1
+16:08:53 [INFO] [grid-15] listing page 8
+16:08:56 [INFO] [grid-15] page 8: 20 records
+16:08:56 [INFO]   2024-grille-78  26/11/2024 | Coupe d'Europe
+16:08:59 [INFO]   2024-grille-77  24/11/2024 | Ligue 1
+16:09:03 [INFO]   2024-grille-76  19/11/2024 | International
+16:09:06 [INFO]   2024-grille-75  15/11/2024 | International
+16:09:10 [INFO]   2024-grille-74  10/11/2024 | Ligue 1
+16:09:13 [INFO]   2024-grille-73  05/11/2024 | Coupe d'Europe
+16:09:17 [INFO]   2024-grille-72  03/11/2024 | Ligue 1
+16:09:21 [INFO]   2024-grille-71  29/10/2024 | Autre
+16:09:24 [INFO]   2024-grille-70  27/10/2024 | Ligue 1
+16:09:28 [INFO]   2024-grille-69  22/10/2024 | Coupe d'Europe
+16:09:31 [INFO]   2024-grille-68  20/10/2024 | Ligue 1
+16:09:35 [INFO]   2024-grille-67  15/10/2024 | International
+16:09:38 [INFO]   2024-grille-66  11/10/2024 | International
+16:09:42 [INFO]   2024-grille-65  06/10/2024 | Ligue 1
+16:09:46 [INFO]   2024-grille-64  01/10/2024 | Coupe d'Europe
+16:09:49 [INFO]   2024-grille-63  29/09/2024 | Ligue 1
+16:09:53 [INFO]   2024-grille-62  25/09/2024 | Coupe d'Europe
+16:09:57 [INFO]   2024-grille-61  22/09/2024 | Ligue 1
+16:10:01 [INFO]   2024-grille-60  17/09/2024 | Coupe d'Europe
+16:10:05 [INFO]   2024-grille-59  15/09/2024 | Ligue 1
+16:10:09 [INFO] [grid-15] listing page 9
+16:10:12 [INFO] [grid-15] page 9: 20 records
+16:10:12 [INFO]   2024-grille-58  10/09/2024 | International
+16:10:16 [INFO]   2024-grille-57  06/09/2024 | International
+16:10:20 [INFO]   2024-grille-56  01/09/2024 | Ligue 1
+16:10:24 [INFO]   2024-grille-55  28/08/2024 | Coupe d'Europe
+16:10:27 [INFO]   2024-grille-54  25/08/2024 | Ligue 1
+16:10:31 [INFO]   2024-grille-53  20/08/2024 | Coupe d'Europe
+16:10:35 [INFO]   2024-grille-52  18/08/2024 | Ligue 1
+16:10:38 [INFO]   2024-grille-51  13/08/2024 | Coupe d'Europe
+16:10:42 [INFO]   2024-grille-50  11/08/2024 | Autre
+16:10:45 [INFO]   2024-grille-49  06/08/2024 | Coupe d'Europe
+16:10:49 [INFO]   2024-grille-48  03/08/2024 | Autre
+16:10:53 [INFO]   2024-grille-47  01/08/2024 | Coupe d'Europe
+16:10:56 [INFO]   2024-grille-46  30/07/2024 | Coupe d'Europe
+16:10:58 [INFO] 2024-grille-46: missing cote match 10 → skip
+16:10:58 [INFO]      → stats: skipped (missing cote)
+16:10:58 [INFO]   2024-grille-45  25/07/2024 | Coupe d'Europe
+16:11:00 [INFO] 2024-grille-45: missing cote match 5 → skip
+16:11:00 [INFO]      → stats: skipped (missing cote)
+16:11:00 [INFO]   2024-grille-44  20/07/2024 | Autre
+16:11:04 [INFO]   2024-grille-43  16/07/2024 | International
+16:11:06 [INFO] 2024-grille-43: missing cote match 6 → skip
+16:11:06 [INFO]      → stats: skipped (missing cote)
+16:11:06 [INFO]   2024-grille-42  13/07/2024 | Autre
+16:11:09 [INFO]   2024-grille-41  09/07/2024 | Coupe d'Europe
+16:11:11 [INFO] 2024-grille-41: missing cote match 5 → skip
+16:11:11 [INFO]      → stats: skipped (missing cote)
+16:11:11 [INFO]   2024-grille-40  06/07/2024 | Autre
+16:11:14 [INFO]   2024-grille-39  03/07/2024 | Autre
+16:11:18 [INFO] [grid-15] listing page 10
+16:11:21 [INFO] [grid-15] page 10: 20 records
+16:11:21 [INFO]   2024-grille-38  29/06/2024 | Autre
+16:11:24 [INFO]   2024-grille-37  26/06/2024 | Autre
+16:11:28 [INFO]   2024-grille-36  22/06/2024 | International
+16:11:32 [INFO]   2024-grille-35  19/06/2024 | International
+16:11:36 [INFO]   2024-grille-34  14/06/2024 | International
+16:11:39 [INFO]   2024-grille-33  02/06/2024 | Autre
+16:11:43 [INFO]   2024-grille-32  29/05/2024 | Autre
+16:11:46 [INFO]   2024-grille-31  26/05/2024 | Autre
+16:11:50 [INFO]   2024-grille-30  21/05/2024 | Autre
+16:11:53 [INFO]   2024-grille-29  19/05/2024 | Ligue 1
+16:11:57 [INFO]   2024-grille-28  15/05/2024 | Autre
+16:12:00 [INFO]   2024-grille-27  12/05/2024 | Ligue 1
+16:12:04 [INFO]   2024-grille-26  04/05/2024 | Ligue 1
+16:12:08 [INFO]   2024-grille-25  30/04/2024 | Autre
+16:12:13 [INFO]   2024-grille-24  28/04/2024 | Autre
+16:12:16 [INFO]   2024-grille-23  23/04/2024 | Autre
+16:12:21 [INFO]   2024-grille-22  21/04/2024 | Ligue 1
+16:12:25 [INFO]   2024-grille-21  13/04/2024 | Autre
+16:12:31 [INFO]   2024-grille-20  07/04/2024 | Ligue 1
+16:12:36 [INFO]   2024-grille-19  31/03/2024 | Ligue 1
+16:12:40 [INFO] [grid-15] listing page 11
+16:12:43 [INFO] [grid-15] page 11: 20 records
+16:12:43 [INFO]   2024-grille-18  25/03/2024 | International
+16:12:44 [INFO] 2024-grille-18: missing cote match 6 → skip
+16:12:44 [INFO]      → stats: skipped (missing cote)
+16:12:44 [INFO]   2024-grille-17  23/03/2024 | Autre
+16:12:48 [INFO]   2024-grille-16  20/03/2024 | International
+16:12:52 [INFO]   2024-grille-15  17/03/2024 | Ligue 1
+16:12:56 [INFO]   2024-grille-14  10/03/2024 | Ligue 1
+16:12:59 [INFO]   2024-grille-13  03/03/2024 | Ligue 1
+16:13:03 [INFO]   2024-grille-12  25/02/2024 | Ligue 1
+16:13:07 [INFO]   2024-grille-11  18/02/2024 | Ligue 1
+16:13:11 [INFO]   2024-grille-10  11/02/2024 | Ligue 1
+16:13:14 [INFO]   2024-grille-9  04/02/2024 | Ligue 1
+16:13:18 [INFO]   2024-grille-8  28/01/2024 | Ligue 1
+16:13:22 [INFO]   2024-grille-7  24/01/2024 | Autre
+16:13:26 [INFO]   2024-grille-6  20/01/2024 | Coupe de France
+16:13:29 [INFO]   2024-grille-5  16/01/2024 | Autre
+16:13:33 [INFO]   2024-grille-4  14/01/2024 | Ligue 1
+16:13:37 [INFO]   2024-grille-3  09/01/2024 | Autre
+16:13:41 [INFO]   2024-grille-2  06/01/2024 | Coupe de France
+16:13:44 [INFO]   2024-grille-1  02/01/2024 | Autre
+16:13:48 [INFO]   2023-grille-79  31/12/2023 | Autre
+16:13:52 [INFO]   2023-grille-78  29/12/2023 | Autre
+16:13:56 [INFO] [grid-15] listing page 12
+16:13:59 [INFO] [grid-15] page 12: 20 records
+16:13:59 [INFO]   2023-grille-77  26/12/2023 | Ligue 1
+16:14:03 [INFO]   2023-grille-76  23/12/2023 | Autre
+16:14:06 [INFO]   2023-grille-75  20/12/2023 | Ligue 1
+16:14:10 [INFO]   2023-grille-74  17/12/2023 | Ligue 1
+16:14:14 [INFO]   2023-grille-73  12/12/2023 | Coupe d'Europe
+16:14:18 [INFO]   2023-grille-72  10/12/2023 | Ligue 1
+16:14:21 [INFO]   2023-grille-71  03/12/2023 | Ligue 1
+16:14:25 [INFO]   2023-grille-70  28/11/2023 | Coupe d'Europe
+16:14:29 [INFO]   2023-grille-69  26/11/2023 | Ligue 1
+16:14:32 [INFO]   2023-grille-68  14/11/2023 | Coupe d'Europe
+16:14:36 [INFO]   2023-grille-67  12/11/2023 | Ligue 1
+16:14:39 [INFO]   2023-grille-66  07/11/2023 | Coupe d'Europe
+16:14:43 [INFO]   2023-grille-65  05/11/2023 | Ligue 1
+16:14:47 [INFO]   2023-grille-64  01/11/2023 | Autre
+16:14:51 [INFO]   2023-grille-63  29/10/2023 | Ligue 1
+16:14:55 [INFO]   2023-grille-62  24/10/2023 | Coupe d'Europe
+16:14:58 [INFO]   2023-grille-61  22/10/2023 | Ligue 1
+16:15:02 [INFO]   2023-grille-60  14/10/2023 | International
+16:15:06 [INFO]   2023-grille-59  12/10/2023 | International
+16:15:09 [INFO]   2023-grille-58  08/10/2023 | Ligue 1
+16:15:13 [INFO] [grid-15] listing page 13
+16:15:16 [INFO] [grid-15] page 13: 20 records
+16:15:16 [INFO]   2023-grille-57  03/10/2023 | Coupe d'Europe
+16:15:20 [INFO]   2023-grille-56  01/10/2023 | Ligue 1
+16:15:24 [INFO]   2023-grille-55  26/09/2023 | Autre
+16:15:28 [INFO]   2023-grille-54  24/09/2023 | Ligue 1
+16:15:32 [INFO]   2023-grille-53  19/09/2023 | Coupe d'Europe
+16:15:35 [INFO]   2023-grille-52  17/09/2023 | Ligue 1
+16:15:39 [INFO]   2023-grille-51  03/09/2023 | Ligue 1
+16:15:43 [INFO]   2023-grille-50  29/08/2023 | Coupe d'Europe
+16:15:47 [INFO]   2023-grille-49  27/08/2023 | Ligue 1
+16:15:51 [INFO]   2023-grille-48  20/08/2023 | Ligue 1
+16:15:54 [INFO]   2023-grille-47  13/08/2023 | Ligue 1
+16:15:58 [INFO]   2023-grille-46  08/08/2023 | Coupe d'Europe
+16:16:01 [INFO]   2023-grille-45  05/08/2023 | Autre
+16:16:05 [INFO]   2023-grille-44  01/08/2023 | Coupe d'Europe
+16:16:08 [INFO]   2023-grille-43  29/07/2023 | Autre
+16:16:12 [INFO]   2023-grille-42  24/07/2023 | Autre
+16:16:15 [INFO]   2023-grille-41  22/07/2023 | Autre
+16:16:19 [INFO]   2023-grille-40  18/07/2023 | Autre
+16:16:22 [INFO]   2023-grille-39  15/07/2023 | Autre
+16:16:26 [INFO]   2023-grille-38  11/07/2023 | Autre
+16:16:29 [INFO] [grid-15] listing page 14
+16:16:32 [INFO] [grid-15] page 14: 20 records
+16:16:32 [INFO]   2023-grille-37  08/07/2023 | Autre
+16:16:36 [INFO]   2023-grille-36  01/07/2023 | Autre
+16:16:39 [INFO]   2023-grille-35  27/06/2023 | International
+16:16:41 [INFO] 2023-grille-35: missing cote match 2 → skip
+16:16:41 [INFO]      → stats: skipped (missing cote)
+16:16:41 [INFO]   2023-grille-34  24/06/2023 | International
+16:16:45 [INFO]   2023-grille-33  21/06/2023 | Autre
+16:16:48 [INFO]   2023-grille-32  17/06/2023 | Autre
+16:16:52 [INFO]   2023-grille-31  10/06/2023 | Autre
+16:16:55 [INFO]   2023-grille-30  06/06/2023 | Autre
+16:16:59 [INFO]   2023-grille-29  03/06/2023 | Ligue 1
+16:17:02 [INFO]   2023-grille-28  27/05/2023 | Ligue 1
+16:17:06 [INFO]   2023-grille-27  23/05/2023 | Autre
+16:17:10 [INFO]   2023-grille-26  21/05/2023 | Ligue 1
+16:17:13 [INFO]   2023-grille-25  14/05/2023 | Ligue 1
+16:17:17 [INFO]   2023-grille-24  07/05/2023 | Ligue 1
+16:17:21 [INFO]   2023-grille-23  30/04/2023 | Ligue 1
+16:17:25 [INFO]   2023-grille-22  23/04/2023 | Ligue 1
+16:17:28 [INFO]   2023-grille-21  16/04/2023 | Autre
+16:17:32 [INFO]   2023-grille-20  09/04/2023 | Ligue 1
+16:17:36 [INFO]   2023-grille-19  04/04/2023 | Autre
+16:17:39 [INFO]   2023-grille-18  02/04/2023 | Ligue 1
+16:17:43 [INFO] [grid-15] listing page 15
+16:17:46 [INFO] [grid-15] page 15: 20 records
+16:17:46 [INFO]   2023-grille-17  26/03/2023 | International
+16:17:48 [INFO] 2023-grille-17: missing cote match 9 → skip
+16:17:48 [INFO]      → stats: skipped (missing cote)
+16:17:48 [INFO]   2023-grille-16  19/03/2023 | Ligue 1
+16:17:52 [INFO]   2023-grille-15  12/03/2023 | Ligue 1
+16:17:56 [INFO]   2023-grille-14  05/03/2023 | Ligue 1
+16:18:00 [INFO]   2023-grille-13  28/02/2023 | Autre
+16:18:03 [INFO]   2023-grille-12  26/02/2023 | Ligue 1
+16:18:07 [INFO]   2023-grille-11  19/02/2023 | Ligue 1
+16:18:11 [INFO]   2023-grille-10  12/02/2023 | Ligue 1
+16:18:14 [INFO]   2023-grille-9  05/02/2023 | Ligue 1
+16:18:18 [INFO]   2023-grille-8  29/01/2023 | Ligue 1
+16:18:22 [INFO]   2023-grille-7  21/01/2023 | Autre
+16:18:26 [INFO]   2023-grille-6  17/01/2023 | Ligue 1
+16:18:29 [INFO]   2023-grille-5  15/01/2023 | Ligue 1
+16:18:31 [INFO] 2023-grille-5: missing cote match 1 → skip
+16:18:31 [INFO]      → stats: skipped (missing cote)
+16:18:31 [INFO]   2023-grille-4  11/01/2023 | Ligue 1
+16:18:33 [INFO]      → stats: skipped (missing cote)
+16:18:33 [INFO]   2023-grille-3  05/01/2023 | Autre
+16:18:35 [INFO]      → stats: skipped (missing cote)
+16:18:35 [INFO]   2023-grille-2  03/01/2023 | Autre
+16:18:37 [INFO]      → stats: skipped (missing cote)
+16:18:37 [INFO]   2023-grille-1  01/01/2023 | Ligue 1
+16:18:39 [INFO]      → stats: skipped (missing cote)
+16:18:39 [INFO]   2022-grille-85  28/12/2022 | Ligue 1
+16:18:41 [INFO]      → stats: skipped (missing cote)
+16:18:41 [INFO]   2022-grille-84  25/12/2022 | Autre
+16:18:43 [INFO]      → stats: skipped (missing cote)
+16:18:43 [INFO]   2022-grille-83  20/12/2022 | Ligue 1
+16:18:44 [INFO]      → stats: skipped (missing cote)
+16:18:44 [INFO] [grid-15] listing page 16
+16:18:47 [INFO] [grid-15] page 16: 20 records
+16:18:47 [INFO]   2022-grille-82  11/12/2022 | Autre
+16:18:51 [INFO]   2022-grille-81  07/12/2022 | Autre
+16:18:55 [INFO]   2022-grille-80  04/12/2022 | Autre
+16:18:59 [INFO]   2022-grille-79  29/11/2022 | International
+16:19:02 [INFO]   2022-grille-78  26/11/2022 | International
+16:19:06 [INFO]   2022-grille-77  20/11/2022 | International
+16:19:10 [INFO]   2022-grille-76  13/11/2022 | Ligue 1
+16:19:13 [INFO]   2022-grille-75  08/11/2022 | Autre
+16:19:17 [INFO]   2022-grille-74  06/11/2022 | Ligue 1
+16:19:21 [INFO]   2022-grille-73  01/11/2022 | Ligue 1
+16:19:25 [INFO]   2022-grille-72  30/10/2022 | Ligue 1
+16:19:28 [INFO]   2022-grille-71  25/10/2022 | Coupe d'Europe
+16:19:32 [INFO]   2022-grille-70  23/10/2022 | Ligue 1
+16:19:36 [INFO]   2022-grille-69  18/10/2022 | Autre
+16:19:40 [INFO]   2022-grille-68  16/10/2022 | Ligue 1
+16:19:43 [INFO]   2022-grille-67  11/10/2022 | Coupe d'Europe
+16:19:47 [INFO]   2022-grille-66  09/10/2022 | Ligue 1
+16:19:51 [INFO]   2022-grille-65  04/10/2022 | Coupe d'Europe
+16:19:54 [INFO]   2022-grille-64  02/10/2022 | Ligue 1
+16:19:58 [INFO]   2022-grille-63  18/09/2022 | Ligue 1
+16:20:02 [INFO] [grid-15] listing page 17
+16:20:05 [INFO] [grid-15] page 17: 20 records
+16:20:05 [INFO]   2022-grille-62  13/09/2022 | Coupe d'Europe
+16:20:09 [INFO]   2022-grille-61  11/09/2022 | Ligue 1
+16:20:12 [INFO]   2022-grille-60  06/09/2022 | Coupe d'Europe
+16:20:16 [INFO]   2022-grille-59  04/09/2022 | Ligue 1
+16:20:20 [INFO]   2022-grille-58  31/08/2022 | Ligue 1
+16:20:24 [INFO]   2022-grille-57  28/08/2022 | Ligue 1
+16:20:27 [INFO]   2022-grille-56  23/08/2022 | Coupe d'Europe
+16:20:31 [INFO]   2022-grille-55  21/08/2022 | Ligue 1
+16:20:35 [INFO]   2022-grille-54  16/08/2022 | Coupe d'Europe
+16:20:39 [INFO]   2022-grille-53  14/08/2022 | Ligue 1
+16:20:42 [INFO]   2022-grille-52  09/08/2022 | Coupe d'Europe
+16:20:46 [INFO]   2022-grille-51  07/08/2022 | Ligue 1
+16:20:50 [INFO]   2022-grille-50  02/08/2022 | Coupe d'Europe
+16:20:54 [INFO]   2022-grille-49  30/07/2022 | Autre
+16:20:57 [INFO]   2022-grille-48  26/07/2022 | Coupe d'Europe
+16:21:01 [INFO]   2022-grille-47  23/07/2022 | Autre
+16:21:05 [INFO]   2022-grille-46  19/07/2022 | Coupe d'Europe
+16:21:08 [INFO]   2022-grille-45  16/07/2022 | Autre
+16:21:12 [INFO]   2022-grille-44  12/07/2022 | Autre
+16:21:15 [INFO]   2022-grille-43  09/07/2022 | Autre
+16:21:19 [INFO] [grid-15] listing page 18
+16:21:23 [INFO] [grid-15] page 18: 20 records
+16:21:23 [INFO]   2022-grille-42  05/07/2022 | Autre
+16:21:26 [INFO]   2022-grille-41  02/07/2022 | Autre
+16:21:28 [INFO] 2022-grille-41: missing cote match 4 → skip
+16:21:28 [INFO]      → stats: skipped (missing cote)
+16:21:28 [INFO]   2022-grille-40  25/06/2022 | Autre
+16:21:32 [INFO]   2022-grille-39  18/06/2022 | Autre
+16:21:35 [INFO]   2022-grille-38  14/06/2022 | International
+16:21:39 [INFO]   2022-grille-37  07/06/2022 | International
+16:21:42 [INFO]   2022-grille-36  03/06/2022 | International
+16:21:46 [INFO]   2022-grille-35  28/05/2022 | Autre
+16:21:49 [INFO]   2022-grille-34  24/05/2022 | Ligue 1
+16:21:53 [INFO]   2022-grille-33  21/05/2022 | Ligue 1
+16:21:56 [INFO]   2022-grille-32  17/05/2022 | Autre
+16:22:00 [INFO]   2022-grille-31  14/05/2022 | Ligue 1
+16:22:04 [INFO]   2022-grille-30  11/05/2022 | Autre
+16:22:07 [INFO]   2022-grille-29  08/05/2022 | Ligue 1
+16:22:11 [INFO]   2022-grille-28  03/05/2022 | Autre
+16:22:15 [INFO]   2022-grille-27  01/05/2022 | Ligue 1
+16:22:19 [INFO]   2022-grille-26  26/04/2022 | Autre
+16:22:23 [INFO]   2022-grille-25  24/04/2022 | Ligue 1
+16:22:26 [INFO]   2022-grille-24  20/04/2022 | Ligue 1
+16:22:30 [INFO]   2022-grille-23  17/04/2022 | Ligue 1
+16:22:34 [INFO] [grid-15] listing page 19
+16:22:37 [INFO] [grid-15] page 19: 20 records
+16:22:37 [INFO]   2022-grille-22  12/04/2022 | Autre
+16:22:39 [INFO] 2022-grille-22: missing cote match 14 → skip
+16:22:39 [INFO]      → stats: skipped (missing cote)
+16:22:39 [INFO]   2022-grille-21  10/04/2022 | Ligue 1
+16:22:43 [INFO]   2022-grille-20  05/04/2022 | Autre
+16:22:47 [INFO]   2022-grille-19  03/04/2022 | Ligue 1
+16:22:51 [INFO]   2022-grille-18  26/03/2022 | Autre
+16:22:53 [INFO] 2022-grille-18: missing cote match 9 → skip
+16:22:53 [INFO]      → stats: skipped (missing cote)
+16:22:53 [INFO]   2022-grille-17  20/03/2022 | Ligue 1
+16:22:56 [INFO]   2022-grille-16  13/03/2022 | Ligue 1
+16:23:00 [INFO]   2022-grille-15  06/03/2022 | Ligue 1
+16:23:04 [INFO]   2022-grille-14  27/02/2022 | Ligue 1
+16:23:08 [INFO]   2022-grille-13  22/02/2022 | Autre
+16:23:12 [INFO]   2022-grille-12  20/02/2022 | Ligue 1
+16:23:16 [INFO]   2022-grille-11  15/02/2022 | Autre
+16:23:19 [INFO]   2022-grille-10  13/02/2022 | Ligue 1
+16:23:23 [INFO]   2022-grille-9  06/02/2022 | Ligue 1
+16:23:27 [INFO]   2022-grille-8  27/01/2022 | International
+16:23:31 [INFO]   2022-grille-7  25/01/2022 | Autre
+16:23:34 [INFO]   2022-grille-6  23/01/2022 | Ligue 1
+16:23:39 [INFO]   2022-grille-5  18/01/2022 | Autre
+16:23:42 [INFO]   2022-grille-4  16/01/2022 | Ligue 1
+16:23:46 [INFO]   2022-grille-3  13/01/2022 | Autre
+16:23:50 [INFO] [grid-15] listing page 20
+16:23:53 [INFO] [grid-15] page 20: 20 records
+16:23:53 [INFO]   2022-grille-2  09/01/2022 | Ligue 1
+16:23:57 [INFO]   2022-grille-1  05/01/2022 | Ligue 1
+16:24:01 [INFO]   2021-grille-86  28/12/2021 | Autre
+16:24:04 [INFO]   2021-grille-85  26/12/2021 | Autre
+16:24:09 [INFO]   2021-grille-84  22/12/2021 | Ligue 1
+16:24:13 [INFO]   2021-grille-83  16/12/2021 | Autre
+16:24:17 [INFO]   2021-grille-82  14/12/2021 | Autre
+16:24:20 [INFO]   2021-grille-81  12/12/2021 | Ligue 1
+16:24:24 [INFO]   2021-grille-80  07/12/2021 | Coupe d'Europe
+16:24:28 [INFO]   2021-grille-79  05/12/2021 | Ligue 1
+16:24:32 [INFO]   2021-grille-78  01/12/2021 | Ligue 1
+16:24:36 [INFO]   2021-grille-77  28/11/2021 | Ligue 1
+16:24:40 [INFO]   2021-grille-76  23/11/2021 | Coupe d'Europe
+16:24:43 [INFO]   2021-grille-75  21/11/2021 | Autre
+16:24:47 [INFO]   2021-grille-74  07/11/2021 | Ligue 1
+16:24:51 [INFO]   2021-grille-73  02/11/2021 | Coupe d'Europe
+16:24:55 [INFO]   2021-grille-72  31/10/2021 | Ligue 1
+16:24:59 [INFO]   2021-grille-71  27/10/2021 | Autre
+16:25:02 [INFO]   2021-grille-70  24/10/2021 | Ligue 1
+16:25:06 [INFO]   2021-grille-69  19/10/2021 | Coupe d'Europe
+16:25:10 [INFO] [grid-15] done: total=400 stats=362 results=362 skip=38 files=362
+16:25:10 [INFO] Done in 1438.7s
