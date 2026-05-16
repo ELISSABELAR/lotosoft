@@ -1,0 +1,1 @@
+"""LotoFoot Scraper."""
