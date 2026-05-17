@@ -1354,3 +1354,27 @@
 20:44:59 [INFO]      → stats: skipped (missing cote)
 20:44:59 [INFO] [grid-8] done: total=400 stats=0 results=0 skip=400 files=0
 20:44:59 [INFO] Done in 723.4s
+05:58:15 [INFO] [grid-15] state: page 21/100, 400 records, complete=False
+05:58:15 [INFO] [grid-15] pages 21→40 | done: 400
+05:58:15 [INFO] [grid-15] listing page 21
+05:58:18 [INFO] [grid-15] listing page 22
+05:58:20 [INFO] [grid-15] listing page 23
+05:58:22 [INFO] [grid-15] listing page 24
+05:58:24 [INFO] [grid-15] listing page 25
+05:58:27 [INFO] [grid-15] listing page 26
+05:58:29 [INFO] [grid-15] listing page 27
+05:58:31 [INFO] [grid-15] listing page 28
+05:58:33 [INFO] [grid-15] listing page 29
+05:58:35 [INFO] [grid-15] listing page 30
+05:58:37 [INFO] [grid-15] listing page 31
+05:58:40 [INFO] [grid-15] listing page 32
+05:58:42 [INFO] [grid-15] listing page 33
+05:58:44 [INFO] [grid-15] listing page 34
+05:58:46 [INFO] [grid-15] listing page 35
+05:58:48 [INFO] [grid-15] listing page 36
+05:58:51 [INFO] [grid-15] listing page 37
+05:58:53 [INFO] [grid-15] listing page 38
+05:58:55 [INFO] [grid-15] listing page 39
+05:58:57 [INFO] [grid-15] listing page 40
+05:58:59 [INFO] [grid-15] done: total=0 stats=0 results=0 skip=0 files=362
+05:58:59 [INFO] Done in 44.1s
