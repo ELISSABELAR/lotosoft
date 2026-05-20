@@ -27,10 +27,10 @@ on:
         default: false
 
   schedule:
-    - cron: "0 6 * * *"
-    - cron: "0 10 * * *"
-    - cron: "0 14 * * *"
-    - cron: "0 18 * * *"
+    - cron: "0 3 * * *"
+    - cron: "0 9 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 21 * * *"
 
 permissions:
   contents: write
@@ -40,7 +40,7 @@ jobs:
   audit:
     name: "Audit all grids"
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 360
     if: github.event.inputs.audit == 'true'
     steps:
       - uses: actions/checkout@v4
@@ -56,7 +56,7 @@ jobs:
   run:
     name: "${{ matrix.type }}"
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 360
     if: github.event.inputs.audit != 'true'
     strategy:
       fail-fast: false
