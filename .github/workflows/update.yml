@@ -36,27 +36,23 @@ permissions:
   contents: write
 
 jobs:
-  # ── Job audit : teste toutes les grilles sans sauvegarder ─────────────────
+  # ── Job audit ─────────────────────────────────────────────
   audit:
     name: "Audit all grids"
     runs-on: ubuntu-latest
     timeout-minutes: 30
     if: github.event.inputs.audit == 'true'
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
-
       - run: pip install -r requirements.txt
-
       - name: Run audit
         run: python audit.py
 
-  # ── Job scraping : run normal ──────────────────────────────────────────────
+  # ── Job scraping ───────────────────────────────────────────
   run:
     name: "${{ matrix.type }}"
     runs-on: ubuntu-latest
@@ -104,6 +100,8 @@ jobs:
             echo "nothing to commit"
           else
             git commit -m "update ${{ matrix.type }}"
+            # Rebase sur les éventuels commits parallèles (grid-7/8/12/15 tournent en même temps)
+            git pull --rebase origin main
             git push
           fi
 
